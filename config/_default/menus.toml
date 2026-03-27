@@ -1,0 +1,20 @@
+[[main]]
+  name = "Books"
+  pageRef = "books"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  pre = "tiktok"
+  url = "https://www.tiktok.com/@plugin.publication/"
+  weight = 30
+
+#[[main]]
+#  identifier = "amazon"
+#  pre = "amazon"
+#  url = "https://www.amazon.com/stores/author/B0FZ5T8DKJ/"
+#  weight = 40
