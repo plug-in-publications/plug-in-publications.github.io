@@ -1,5 +1,6 @@
 ---
-title: "💕 Conversations with Mom"
+title: "Conversations with Mom"
+# title: "💕 Conversations with Mom"
 description: "Conversations with Mom: Emotional Recipes for Self-Help"
 showSummary: true
 summary: "Emotional Recipes for Self-Help"
@@ -24,8 +25,8 @@ folding laundry and making dinner transform into extraordinary life lessons.
 {{< timeline >}}
 
 {{< timelineItem icon="comment" header="About This Book" badge="about" >}}
-This collection of heartwarming essays captures the essence of conversations between a 
-mother and her grown daughter as they navigate motherhood and self-discovery. 
+This collection of heartwarming essays captures the essence of <b>conversations between a 
+mother and her grown daughter as they navigate motherhood and self-discovery</b>. 
 Through comforting advice and powerful tools exchanged during everyday activities, the 
 daughter's perspective is gently molded, offering readers a refreshing lens through which to view life's challenges.
 {{< /timelineItem >}}
@@ -33,11 +34,11 @@ daughter's perspective is gently molded, offering readers a refreshing lens thro
 
 {{< timelineItem icon="bell" header="Perfect For Readers Who" badge="perfect for" >}}
 <ul>
-  <li>Cherish meaningful family relationships</li>
-  <li>Seek wisdom from lived experiences</li>
-  <li>Enjoy cultural storytelling</li>
-  <li>Want practical life guidance</li>
-  <li>Love memoirs that teach and inspire</li>
+  <li>Cherish meaningful family <b>relationships</b></li>
+  <li>Seek <b>wisdom</b> from lived experiences</li>
+  <li>Enjoy <b>cultural</b> storytelling</li>
+  <li>Want practical <b>life guidance</b></li>
+  <li>Love memoirs that teach and <b>inspire</b></li>
 </ul>
 {{< /timelineItem >}}
 
