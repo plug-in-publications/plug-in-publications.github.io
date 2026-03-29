@@ -4,14 +4,19 @@
   weight = 10
 
 [[main]]
+  name = "Workshops"
+  pageRef = "workshops"
+  weight = 20
+
+[[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 30
 
 [[main]]
   pre = "tiktok"
   url = "https://www.tiktok.com/@plugin.publication/"
-  weight = 30
+  weight = 40
 
 #[[main]]
 #  identifier = "amazon"
