@@ -6,8 +6,7 @@ showSummary: true
 summary: "Emotional Recipes for Self-Help"
 categories: ["Self-Help", "Memoir", "Relationships"]
 tags: ["Books"]
-cascade:
-  showReadingTime: true
+weight: 1
 ---
 
 > [!TIP] **Available Now!** 

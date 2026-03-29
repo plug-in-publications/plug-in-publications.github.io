@@ -6,8 +6,7 @@ showSummary: true
 summary: "A Mindset Makeover Workbook"
 categories: ["Self-Help", "Personal Development", "Workbooks"]
 tags: ["Books"]
-cascade:
-  showReadingTime: true
+weight: 2
 ---
 
 > [!TIP] **Available Now!** 

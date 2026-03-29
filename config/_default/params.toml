@@ -8,6 +8,7 @@ enableEmoji = true
 [homepage]
 showRecent = true
 cardView = true
+showRecentItems = 10 
 
 [article]
 showDate = false

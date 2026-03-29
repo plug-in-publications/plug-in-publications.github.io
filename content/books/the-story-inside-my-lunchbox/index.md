@@ -5,8 +5,7 @@ showSummary: true
 summary: "Celebrating cultural diversity, with kindness, respect, and love"
 categories: ["Children", "Relationships"]
 tags: ["Books"]
-cascade:
-  showReadingTime: true
+weight: 4
 ---
 
 > [!TIP] **Available Now!** 

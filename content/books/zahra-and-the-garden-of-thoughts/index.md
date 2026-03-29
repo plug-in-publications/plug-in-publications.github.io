@@ -5,8 +5,7 @@ showSummary: true
 summary: "A Story for Growing a Healthy Mind and Bright, Positive Thoughts"
 categories: ["Children", "Relationships"]
 tags: ["Books"]
-cascade:
-  showReadingTime: true
+weight: 5
 ---
 
 > [!TIP] **Available Now!** 

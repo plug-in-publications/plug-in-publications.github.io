@@ -5,8 +5,7 @@ showSummary: true
 summary: "A story about Practicing Gratitude"
 categories: ["Children", "Relationships"]
 tags: ["Books"]
-cascade:
-  showReadingTime: true
+weight: 3
 ---
 
 > [!TIP] **Available Now!** 

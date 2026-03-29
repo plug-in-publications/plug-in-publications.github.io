@@ -5,8 +5,7 @@ showSummary: true
 summary: "A story about mindfulness, emotional regulation, and finding peace within"
 categories: ["Children", "Relationships"]
 tags: ["Books"]
-cascade:
-  showReadingTime: true
+weight: 6
 ---
 
 > [!TIP] **Available Now!** 
