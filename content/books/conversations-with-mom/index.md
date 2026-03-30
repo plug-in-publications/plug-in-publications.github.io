@@ -5,7 +5,7 @@ description: "Conversations with Mom: Emotional Recipes for Self-Help"
 showSummary: true
 summary: "Emotional Recipes for Self-Help"
 categories: ["Self-Help", "Memoir", "Relationships"]
-tags: ["Books"]
+tags: ["Books", "Motherhood", "Cultural Heritage", "Wisdom", "Family", "Personal Growth"]
 weight: 1
 ---
 

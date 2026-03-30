@@ -3,8 +3,8 @@ title: "The Story Inside My Lunchbox"
 description: "The Story Inside My Lunchbox: Celebrating cultural diversity, with kindness, respect, and love."
 showSummary: true
 summary: "Celebrating cultural diversity, with kindness, respect, and love"
-categories: ["Children", "Relationships"]
-tags: ["Books"]
+categories: ["Children", "Relationships", "Cultural Heritage"]
+tags: ["Books", "Books", "Diversity", "Empathy", "Kindness", "Inclusion"]
 weight: 4
 ---
 
@@ -28,13 +28,17 @@ A gentle story that opens hearts, one lunch box at a time.
 {{< timeline >}}
 
 {{< timelineItem icon="comment" header="About This Book" badge="about" >}}
-TBD
+The Story Inside My Lunchbox is a heartfelt celebration of cultural diversity, told through the most universal of experiences — a shared meal. When a young girl's cherished lunch from home is met with unkind words at school, she finds the courage to share not just her food, but the love and culture behind it. With empathy, warmth, and a touch of magic, this story reminds children that every family, every tradition, and every lunchbox carries a story worth honoring. It opens a door to conversations about kindness, belonging, and the richness of our differences.
 {{< /timelineItem >}}
 
 
 {{< timelineItem icon="bell" header="Perfect For Readers Who" badge="perfect for" >}}
 <ul>
-  <li>TBD</li>
+  <li>Celebrate <b>cultural diversity</b> and want to share that value with their child</li>
+  <li>Are navigating experiences of <b>feeling different</b> or left out </li>
+  <li>Want to inspire <b>empathy and respect</b> in young readers</li>
+  <li>Love stories that spark <b>meaningful conversations</b> at home or in the classroom</li>
+  <li>Believe in the power of <b>kindness</b> to build bridges between people</li>
 </ul>
 {{< /timelineItem >}}
 
@@ -43,7 +47,11 @@ TBD
   speed=50
 >}}
 <ul>
-    <li>👩‍👧 <b> TBD</b>: TBD. </li>
+    <li>🌍 <b>Cultural pride</b>: children are encouraged to be proud of their heritage and the traditions of home. </li>
+    <li>👁️ <b>Empathy and perspective-taking</b>: the story invites readers to see the world through someone else's eyes before judging. </li>
+    <li>🦁 <b>Courage to speak up </b>: the young girl models how to respond to hurtful words with grace and confidence. </li>
+    <li>❤️  <b>Every family is special </b>: the message that love looks different in every home, and that's something to celebrate. </li>
+    <li>🤝 <b>Inclusion and belonging</b>: the classroom becomes a richer, kinder place when everyone's story is welcomed. </li>
 </ul>
 {{< /typeit >}}
 

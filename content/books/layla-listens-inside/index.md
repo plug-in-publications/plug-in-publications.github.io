@@ -3,8 +3,8 @@ title: "Layla Listens Inside"
 description: "Layla Listens Inside: A story about mindfulness, emotional regulation, and finding peace within."
 showSummary: true
 summary: "A story about mindfulness, emotional regulation, and finding peace within"
-categories: ["Children", "Relationships"]
-tags: ["Books"]
+categories: ["Children", "Self-Help", "Relationships"]
+tags: ["Books", "Mindfulness", "Emotional Regulation", "Anxiety", "Calm", "Intergenerational"]
 weight: 6
 ---
 
@@ -24,13 +24,17 @@ Layla Listens Inside, is a mindful story that helps children understand emotiona
 {{< timeline >}}
 
 {{< timelineItem icon="comment" header="About This Book" badge="about" >}}
-TBD
+Layla Listens Inside is a soothing, soul-warming story for children with busy minds and big feelings. When Layla's thoughts spin and scatter like playful goats, her wise great-grandmother shows her a simple, profound gift — the ability to be still and listen inside. Through gentle breathing and quiet moments, Layla discovers her inner calm: a steady, loving voice that reminds her she is safe, she is loved, and she belongs. This tender story gives children a practical, accessible introduction to mindfulness and emotional self-regulation, wrapped in the warmth of intergenerational love.
 {{< /timelineItem >}}
 
 
 {{< timelineItem icon="bell" header="Perfect For Readers Who" badge="perfect for" >}}
 <ul>
-  <li>TBD</li>
+  <li>Are looking for calming <b>bedtime or quiet-time reads</b></li>
+  <li>Want to help children manage <b>anxiety, big emotions, or overstimulation</b></li>
+  <li>Cherish stories that highlight <b>grandparent-grandchild bonds</b></li>
+  <li>Are interested in introducing <b>breathing exercises and mindfulness</b> to young children</li>
+  <li>Want to give their child tools for <b>emotional regulation and inner peace</b></li>
 </ul>
 {{< /timelineItem >}}
 
@@ -39,7 +43,11 @@ TBD
   speed=50
 >}}
 <ul>
-    <li>👩‍👧 <b> TBD</b>: TBD. </li>
+    <li>🧘 <b>Mindfulness for children</b>: Layla's story makes the practice of slowing down and breathing feel natural and achievable. </li>
+    <li>🌊 <b>Emotional regulation</b>: children learn that they have the power to calm their own nervous system. </li>
+    <li>👂 <b>The inner voice </b>: the concept of listening inside introduces self-awareness in a gentle, child-friendly way. </li>
+    <li>🏡 <b>Safety and belongin</b>: the affirmations woven through the story ("You are safe. You are loved. You belong.") nurture a child's sense of security. </li>
+    <li>👵 <b>Intergenerational wisdom</b>: the great-grandmother's role honors the tradition of elders as guides and healers within the family. </li>
 </ul>
 {{< /typeit >}}
 

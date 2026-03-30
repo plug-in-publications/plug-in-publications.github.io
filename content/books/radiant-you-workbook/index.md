@@ -5,7 +5,7 @@ description: "The Radiant You: A Mindset Makeover Workbook"
 showSummary: true
 summary: "A Mindset Makeover Workbook"
 categories: ["Self-Help", "Personal Development", "Workbooks"]
-tags: ["Books"]
+tags: ["Books", "Mindset", "Self-Discovery", "Transformation", "Interactive" ,"Journaling"]
 weight: 2
 ---
 
