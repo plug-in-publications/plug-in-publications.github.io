@@ -6,7 +6,7 @@ showCards: true
 groupByYear: false
 cascade:
   showHero: true            # show the cover image as hero
-  heroStyle: "basic"        # options: basic, big, background, thumbAndBackground
+  heroStyle: "background"   # options: basic, big, background, thumbAndBackground
   showReadingTime: false
 ---
 

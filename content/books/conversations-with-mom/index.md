@@ -1,6 +1,5 @@
 ---
 title: "Conversations with Mom"
-# title: "💕 Conversations with Mom"
 description: "Conversations with Mom: Emotional Recipes for Self-Help"
 showSummary: true
 summary: "Emotional Recipes for Self-Help"
