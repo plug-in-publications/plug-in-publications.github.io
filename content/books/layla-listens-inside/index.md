@@ -43,11 +43,11 @@ Layla Listens Inside is a soothing, soul-warming story for children with busy mi
   speed=50
 >}}
 <ul>
-    <li>🧘 <b>Mindfulness for children</b>: Layla's story makes the practice of slowing down and breathing feel natural and achievable. </li>
-    <li>🌊 <b>Emotional regulation</b>: children learn that they have the power to calm their own nervous system. </li>
-    <li>👂 <b>The inner voice </b>: the concept of listening inside introduces self-awareness in a gentle, child-friendly way. </li>
-    <li>🏡 <b>Safety and belongin</b>: the affirmations woven through the story ("You are safe. You are loved. You belong.") nurture a child's sense of security. </li>
-    <li>👵 <b>Intergenerational wisdom</b>: the great-grandmother's role honors the tradition of elders as guides and healers within the family. </li>
+    <li><b>Mindfulness for children</b>: Layla's story makes the practice of slowing down and breathing feel natural and achievable. </li>
+    <li><b>Emotional regulation</b>: children learn that they have the power to calm their own nervous system. </li>
+    <li><b>The inner voice </b>: the concept of listening inside introduces self-awareness in a gentle, child-friendly way. </li>
+    <li><b>Safety and belongin</b>: the affirmations woven through the story ("You are safe. You are loved. You belong.") nurture a child's sense of security. </li>
+    <li><b>Intergenerational wisdom</b>: the great-grandmother's role honors the tradition of elders as guides and healers within the family. </li>
 </ul>
 {{< /typeit >}}
 

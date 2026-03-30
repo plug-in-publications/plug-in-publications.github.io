@@ -46,10 +46,10 @@ daughter's perspective is gently molded, offering readers a refreshing lens thro
   speed=50
 >}}
 <ul>
-    <li>👩‍👧 <b> Mother-Daughter Bond</b>: Explore the deep connection between generations and how wisdom passes from mother to child through everyday moments.</li>
-    <li>🧠 <b>Self-Discovery Tools</b>: Discover practical approaches to personal growth through the comforting guidance shared between family members. </li>
-    <li>🍽️ <b>Cultural Heritage</b>: Experience exotic recipes that serve as metaphors for life lessons and connect readers to rich cultural traditions. </li>
-    <li>💭 <b>Life Perspective</b>: Gain fresh insights on viewing challenges through the lens of shared family wisdom and experience.</li>
+    <li><b> Mother-Daughter Bond</b>: Explore the deep connection between generations and how wisdom passes from mother to child through everyday moments.</li>
+    <li><b>Self-Discovery Tools</b>: Discover practical approaches to personal growth through the comforting guidance shared between family members. </li>
+    <li><b>Cultural Heritage</b>: Experience exotic recipes that serve as metaphors for life lessons and connect readers to rich cultural traditions. </li>
+    <li><b>Life Perspective</b>: Gain fresh insights on viewing challenges through the lens of shared family wisdom and experience.</li>
 </ul>
 {{< /typeit >}}
 

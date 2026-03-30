@@ -44,11 +44,11 @@ Zahra and the Garden of Thoughts invites children into a vivid, imaginative worl
   speed=50
 >}}
 <ul>
-    <li>🌱 <b>The mind as a garden</b>: a rich, child-friendly metaphor that makes abstract emotional concepts concrete and relatable. </li>
-    <li>☀️  <b>Positive thinking as a skill</b>: children learn that thoughts can be chosen, nurtured, and changed. </li>
-    <li>🧠 <b>Emotional awareness</b>: Zahra's journey helps young readers name and understand their own feelings. </li>
-    <li>🌿 <b>Self-compassion</b>: the story gently teaches that unhelpful thoughts are not bad; they just need to be redirected. </li>
-    <li>💪 <b>Inner resilience</b>: children are empowered to grow peace, confidence, and happiness from within themselves. </li>
+    <li><b>The mind as a garden</b>: a rich, child-friendly metaphor that makes abstract emotional concepts concrete and relatable. </li>
+    <li><b>Positive thinking as a skill</b>: children learn that thoughts can be chosen, nurtured, and changed. </li>
+    <li><b>Emotional awareness</b>: Zahra's journey helps young readers name and understand their own feelings. </li>
+    <li><b>Self-compassion</b>: the story gently teaches that unhelpful thoughts are not bad; they just need to be redirected. </li>
+    <li><b>Inner resilience</b>: children are empowered to grow peace, confidence, and happiness from within themselves. </li>
 </ul>
 {{< /typeit >}}
 

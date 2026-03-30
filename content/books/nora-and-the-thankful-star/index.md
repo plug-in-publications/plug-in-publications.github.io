@@ -49,11 +49,11 @@ discover that gratitude is not just something we feel, but something we practice
   speed=50
 >}}
 <ul>
-    <li>🙏 <b>Gratitude as a daily practice</b>: children learn that saying "thank you" goes beyond good manners; it's a way of seeing the world.</li>
-    <li>🌸 <b>Contentment over comparison</b>: the story gently teaches that happiness lives in what we already have. </li>
-    <li>✨ <b>Wishes and intention</b>: Nora discovers that a grateful heart creates the conditions for dreams to grow. </li>
-    <li>🍃 <b>The beauty of the ordinary</b>: everyday moments become magical through a lens of appreciation. </li>
-    <li>💛 <b>Emotional well-being</b>: counting blessings is shown as a simple, powerful tool for a joyful mind. </li>
+    <li><b>Gratitude as a daily practice</b>: children learn that saying "thank you" goes beyond good manners; it's a way of seeing the world.</li>
+    <li><b>Contentment over comparison</b>: the story gently teaches that happiness lives in what we already have. </li>
+    <li><b>Wishes and intention</b>: Nora discovers that a grateful heart creates the conditions for dreams to grow. </li>
+    <li><b>The beauty of the ordinary</b>: everyday moments become magical through a lens of appreciation. </li>
+    <li><b>Emotional well-being</b>: counting blessings is shown as a simple, powerful tool for a joyful mind. </li>
 </ul>
 {{< /typeit >}}
 

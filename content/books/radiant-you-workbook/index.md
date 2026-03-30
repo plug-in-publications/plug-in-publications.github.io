@@ -47,10 +47,10 @@ thoughtful prompts, and inspiring activities, you'll create lasting change from 
   speed=50
 >}}
 <ul>
-    <li>👩‍👧 <b> Discover Your Authentic Self</b>: Self-assessment exercises and personal vision creation through <i>8 Transformative Modules</i>.</li>
-    <li>🧠 <b>Mindset Makeover</b>: Practice positive thinking and build confidence by identifying limiting beliefs and setting goals.</li>
-    <li>🍽️ <b>Emotional Radiance</b>: Develop emotional intelligence and stress management techniques by integrating joy and gratitude in your lifestyle.</li>
-    <li>💭 <b>Relationship Renewal</b>: Build connections and learn how to set boundaries with communication enhancement tools and purpose discovery exercises.</li>
+    <li><b> Discover Your Authentic Self</b>: Self-assessment exercises and personal vision creation through <i>8 Transformative Modules</i>.</li>
+    <li><b>Mindset Makeover</b>: Practice positive thinking and build confidence by identifying limiting beliefs and setting goals.</li>
+    <li><b>Emotional Radiance</b>: Develop emotional intelligence and stress management techniques by integrating joy and gratitude in your lifestyle.</li>
+    <li><b>Relationship Renewal</b>: Build connections and learn how to set boundaries with communication enhancement tools and purpose discovery exercises.</li>
 </ul>
 {{< /typeit >}}
 

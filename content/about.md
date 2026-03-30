@@ -2,8 +2,6 @@
 title: "About Us"
 description: "About Us"
 showSummary: true
-cascade:
-  showReadingTime: true
 ---
 
 

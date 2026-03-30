@@ -47,11 +47,11 @@ The Story Inside My Lunchbox is a heartfelt celebration of cultural diversity, t
   speed=50
 >}}
 <ul>
-    <li>🌍 <b>Cultural pride</b>: children are encouraged to be proud of their heritage and the traditions of home. </li>
-    <li>👁️ <b>Empathy and perspective-taking</b>: the story invites readers to see the world through someone else's eyes before judging. </li>
-    <li>🦁 <b>Courage to speak up </b>: the young girl models how to respond to hurtful words with grace and confidence. </li>
-    <li>❤️  <b>Every family is special </b>: the message that love looks different in every home, and that's something to celebrate. </li>
-    <li>🤝 <b>Inclusion and belonging</b>: the classroom becomes a richer, kinder place when everyone's story is welcomed. </li>
+    <li><b>Cultural pride</b>: children are encouraged to be proud of their heritage and the traditions of home. </li>
+    <li><b>Empathy and perspective-taking</b>: the story invites readers to see the world through someone else's eyes before judging. </li>
+    <li><b>Courage to speak up </b>: the young girl models how to respond to hurtful words with grace and confidence. </li>
+    <li><b>Every family is special </b>: the message that love looks different in every home, and that's something to celebrate. </li>
+    <li><b>Inclusion and belonging</b>: the classroom becomes a richer, kinder place when everyone's story is welcomed. </li>
 </ul>
 {{< /typeit >}}
 

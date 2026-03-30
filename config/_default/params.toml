@@ -6,9 +6,10 @@ enableEmoji = true
 # logo = "img/logo.png"
 
 [homepage]
-showRecent = true
 cardView = true
+showRecent = true
 showRecentItems = 10 
+layout = "profile"
 
 [article]
 showDate = false
