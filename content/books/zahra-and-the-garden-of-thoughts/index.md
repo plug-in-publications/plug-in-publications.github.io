@@ -5,6 +5,7 @@ showSummary: true
 summary: "A Story for Growing a Healthy Mind and Bright, Positive Thoughts"
 categories: ["Children", "Self-Help", "Personal Development"]
 tags: ["Books", "Positive Thinking", "Mindfulness", "Emotional Intelligence", "Anxiety"]
+type: "children-books"
 weight: 5
 ---
 

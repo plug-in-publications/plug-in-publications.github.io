@@ -5,6 +5,7 @@ showSummary: true
 summary: "Celebrating Cultural Diversity, with Kindness, Respect, and Love"
 categories: ["Children", "Relationships", "Cultural Heritage"]
 tags: ["Books", "Books", "Diversity", "Empathy", "Kindness", "Inclusion"]
+type: "children-books"
 weight: 4
 ---
 

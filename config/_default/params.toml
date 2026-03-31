@@ -2,13 +2,15 @@ colorScheme = "slate"
 autoSwitchAppearance = "false"
 smartTOC = true
 enableEmoji = true
+mainSections = ["adult-books", "workshops", "children-books"]
 # defaultAppearance = "dark"
 # logo = "img/logo.png"
 
 [homepage]
 cardView = true
+cardViewScreenWidth = false
 showRecent = true
-showRecentItems = 10 
+showRecentItems = 20 
 layout = "profile"
 
 [article]

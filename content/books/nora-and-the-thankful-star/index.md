@@ -5,6 +5,7 @@ showSummary: true
 summary: "A Story about Practicing Gratitude"
 categories: ["Children", "Relationships", "Self-Help"]
 tags: ["Books", "Gratitude", "Bedtime Stories", "Emotional Wellness", "Mindfulness"]
+type: "children-books"
 weight: 3
 ---
 

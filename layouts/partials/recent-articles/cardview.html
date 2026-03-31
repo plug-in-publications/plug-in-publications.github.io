@@ -1,0 +1,12 @@
+{{ $recentArticles := 5 }}
+{{ $recentArticles = .Site.Params.homepage.showRecentItems }}
+
+{{ range .Site.Params.mainSections }}
+  {{ $sectionType := . }}
+  <h2 class="mt-8 text-2xl font-extrabold mb-4">{{ $sectionType | humanize | title }}</h2>
+  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 mb-10">
+    {{ range first $recentArticles (where $.Site.RegularPages "Type" $sectionType) }}
+      {{ partial "article-link/card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}

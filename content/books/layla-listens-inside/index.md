@@ -5,6 +5,7 @@ showSummary: true
 summary: "A Story about Mindfulness, Emotional Regulation, and Finding Peace Within."
 categories: ["Children", "Self-Help", "Relationships"]
 tags: ["Books", "Mindfulness", "Emotional Regulation", "Anxiety", "Calm", "Intergenerational"]
+type: "children-books"
 weight: 6
 ---
 

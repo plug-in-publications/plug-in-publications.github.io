@@ -8,4 +8,3 @@ description: "Transforming Lives Through Powerful Stories"
 for every age and every stage of life. 
 Because transformation doesn't have an age limit. It starts the moment a story touches your heart.
 {{< /lead >}}
-
