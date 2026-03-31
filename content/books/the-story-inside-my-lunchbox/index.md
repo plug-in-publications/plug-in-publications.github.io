@@ -1,8 +1,8 @@
 ---
 title: "The Story Inside My Lunchbox"
-description: "The Story Inside My Lunchbox: Celebrating cultural diversity, with kindness, respect, and love."
+description: "The Story Inside My Lunchbox: Celebrating Cultural Diversity, with Kindness, Respect, and Love."
 showSummary: true
-summary: "Celebrating cultural diversity, with kindness, respect, and love"
+summary: "Celebrating Cultural Diversity, with Kindness, Respect, and Love"
 categories: ["Children", "Relationships", "Cultural Heritage"]
 tags: ["Books", "Books", "Diversity", "Empathy", "Kindness", "Inclusion"]
 weight: 4

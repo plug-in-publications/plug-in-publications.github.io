@@ -1,5 +1,5 @@
 ---
-title: "Winter"
+title: "Winter Workshops"
 description: "Winter: Rest, Love & Intention"
 showSummary: true
 summary: "Rest, Love & Intention"
@@ -8,9 +8,8 @@ summary: "Rest, Love & Intention"
 weight: 4
 ---
 
-## Intention Setting
-
-### Beginning the year from the inside out
+## 1. Intention Setting
+### **Beginning The Year From The Inside Out**
 
 {{< alert icon=" " cardColor="#1f3b5b" textColor="#f8fbff" >}}
 
@@ -20,9 +19,8 @@ This workshop is not about goals or resolutions - it is about setting intentions
 
 {{< /alert >}}
 
-## Self Love & Self Worth
-
-### Checking in with the one who matters most
+## 2. Self Love & Self Worth
+### **Checking In With The One Who Matters Most**
 
 {{< alert icon=" " cardColor="#4f6d8a" textColor="#f8fbff" >}}
 

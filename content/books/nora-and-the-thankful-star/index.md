@@ -1,8 +1,8 @@
 ---
-title: "Nora and The Thankful Star"
-description: "Nora and The Thankful Star: A story about Practicing Gratitude"
+title: "Nora And The Thankful Star"
+description: "Nora and the Thankful Star: A Story about Practicing Gratitude"
 showSummary: true
-summary: "A story about Practicing Gratitude"
+summary: "A Story about Practicing Gratitude"
 categories: ["Children", "Relationships", "Self-Help"]
 tags: ["Books", "Gratitude", "Bedtime Stories", "Emotional Wellness", "Mindfulness"]
 weight: 3

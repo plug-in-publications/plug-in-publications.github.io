@@ -1,5 +1,5 @@
 ---
-title: "Zahra and the Garden Of Thoughts"
+title: "Zahra And The Garden Of Thoughts"
 description: "Zahra and the Garden Of Thoughts: A Story for Growing a Healthy Mind and Bright, Positive Thoughts"
 showSummary: true
 summary: "A Story for Growing a Healthy Mind and Bright, Positive Thoughts"

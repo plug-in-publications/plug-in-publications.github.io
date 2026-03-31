@@ -1,8 +1,8 @@
 ---
 title: "Layla Listens Inside"
-description: "Layla Listens Inside: A story about mindfulness, emotional regulation, and finding peace within."
+description: "Layla Listens Inside: a Story about Mindfulness, Emotional Regulation, and Finding Peace Within."
 showSummary: true
-summary: "A story about mindfulness, emotional regulation, and finding peace within"
+summary: "A Story about Mindfulness, Emotional Regulation, and Finding Peace Within."
 categories: ["Children", "Self-Help", "Relationships"]
 tags: ["Books", "Mindfulness", "Emotional Regulation", "Anxiety", "Calm", "Intergenerational"]
 weight: 6

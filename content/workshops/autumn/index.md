@@ -1,5 +1,5 @@
 ---
-title: "Autumn"
+title: "Autumn Workshops"
 description: "Autumn: Harvest, Cherish & Connect"
 showSummary: true
 summary: "Harvest, Cherish & Connect"
@@ -8,7 +8,8 @@ summary: "Harvest, Cherish & Connect"
 weight: 3
 ---
 
-## The Art of Relationships: Mindset for Connection
+## 1. The Art Of Relationships
+### **Mindset For Connection**
 
 {{< alert icon=" " cardColor="#b5653b" textColor="#fff7ed" >}}
 
@@ -18,7 +19,8 @@ This workshop explores the beliefs, patterns, and stories we carry into our conn
 
 {{< /alert >}}
 
-## The Gratitude Workshop: Seeing What Was Always There
+## 2. The Gratitude Workshop
+### **Seeing What Was Always There**
 
 {{< alert icon=" " cardColor="#7a5c3e" textColor="#fff7ed" >}}
 

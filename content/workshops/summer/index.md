@@ -1,5 +1,5 @@
 ---
-title: "Summer"
+title: "Summer Workshops"
 description: "Summer: Navigate, Discover & Radiate"
 showSummary: true
 summary: "Navigate, Discover & Radiate"
@@ -8,7 +8,8 @@ summary: "Navigate, Discover & Radiate"
 weight: 2
 ---
 
-## Separation: The Art of Navigating It
+## 1. Separation
+### **The Art Of Navigating It**
 
 {{< alert icon=" " cardColor="#f4a261" textColor="#1f2937" >}}
 
@@ -18,7 +19,8 @@ Learn to move through separation with grace, emotional intelligence, and a persp
 
 {{< /alert >}}
 
-## Finding Your Passion: Discovering Who You Are
+## 2. Finding Your Passion
+### **Discovering Who You Are**
 
 {{< alert icon=" " cardColor="#2a9d8f" textColor="#f8fbff" >}}
 

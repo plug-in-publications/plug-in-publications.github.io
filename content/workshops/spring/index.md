@@ -1,5 +1,5 @@
 ---
-title: "Spring"
+title: "Spring Workshops"
 description: "Spring: Cleanse, Bloom & Begin Again"
 showSummary: true
 summary: "Cleanse, Bloom & Begin Again"
@@ -8,7 +8,7 @@ summary: "Cleanse, Bloom & Begin Again"
 weight: 1
 ---
 
-## Spring Cleaning Of Beliefs
+## 1. Spring Cleaning Of Beliefs
 
 {{< alert icon=" " cardColor="#8ab17d" textColor="#1b4332" >}}
 

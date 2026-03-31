@@ -29,3 +29,8 @@ We are proud to grow our collection of children's books that plant the seeds of 
 From gratitude and positive thinking to mindfulness, empathy, and cultural belonging, 
 our children's titles give young readers the inner tools they need to thrive — and give families meaningful stories to share together.
 
+
+## Contact Us
+
+Have questions? {{< button href="/contact" target="_self" >}} Get in touch {{< /button >}}
+
