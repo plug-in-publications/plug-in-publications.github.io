@@ -3,6 +3,7 @@ autoSwitchAppearance = "false"
 smartTOC = true
 enableEmoji = true
 mainSections = ["adult-books", "workshops", "children-books"]
+defaultSocialImage = "img/logo.png"
 # defaultAppearance = "dark"
 # logo = "img/logo.png"
 

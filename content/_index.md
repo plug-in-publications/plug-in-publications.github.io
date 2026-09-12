@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Plug-In Publications"
-description: "Transforming Lives Through Powerful Stories"
+description: "Plug-In Publications publishes children's picture books, adult self-help books, and seasonal workshops for personal growth, self-discovery, and meaningful transformation."
 ---
 
 {{< lead >}}
