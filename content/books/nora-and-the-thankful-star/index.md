@@ -7,6 +7,7 @@ categories: ["Children", "Relationships", "Self-Help"]
 tags: ["Books", "Gratitude", "Bedtime Stories", "Emotional Wellness", "Mindfulness"]
 type: "children-books"
 weight: 3
+purchaseUrl: "https://www.amazon.com/Nora-Thankful-Star-Practicing-Gratitude/dp/B0FY5LFDZK/"
 ---
 
 > [!TIP] **Available Now!** 

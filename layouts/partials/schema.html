@@ -1,0 +1,138 @@
+{{ if .IsHome -}}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": {{ site.Home.Permalink | safeURL }},
+    "name": "{{ .Site.Title | safeJS }}",
+    {{ with .Site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
+    {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+    "url": {{ site.Home.Permalink | safeURL }},
+    {{ with .Site.Params.keywords }}"keywords": {{ . }},{{ end }}
+    "publisher" : {
+      "@type": "Person",
+      "name": "{{ .Site.Params.Author.name | safeJS }}"
+    }
+  }
+  </script>
+{{ else }}
+  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+  {{ if eq .Section "books" }}
+    {{ $bookImage := "" }}
+    {{ $images := .Resources.ByType "image" }}
+    {{ range slice "*featured*" "*cover*" "*thumbnail*" }}
+      {{ if not $bookImage }}{{ $bookImage = $images.GetMatch . }}{{ end }}
+    {{ end }}
+    <script type="application/ld+json">
+    [{
+      "@context": "https://schema.org",
+      "@type": "Book",
+      "name": "{{ .Title | safeJS }}",
+      {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
+      {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+      "url": {{ .Permalink }},
+      {{ with $bookImage }}"image": "{{ .Permalink | safeJS }}",{{ end }}
+      "author": {
+        "@type": "{{ if .Params.author }}Person{{ else }}Organization{{ end }}",
+        "name": "{{ .Params.author | default .Site.Params.Author.name | safeJS }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Params.Author.name | safeJS }}"
+      },
+      {{ with .Params.isbn }}"isbn": "{{ . | safeJS }}",{{ end }}
+      {{ with .Params.categories }}"genre": {{ . | jsonify | safeJS }},{{ end }}
+      {{ with .Params.purchaseUrl }}"sameAs": "{{ . | safeJS }}",{{ end }}
+      {{ if and .Params.ratingValue .Params.reviewCount }}
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ .Params.ratingValue }}",
+        "reviewCount": "{{ .Params.reviewCount }}"
+      },
+      {{ end }}
+      {{ with .PublishDate }}"datePublished": "{{ .Format $iso8601 }}",{{ end }}
+      {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
+      "mainEntityOfPage": "true"
+    }{{ if site.Params.enableStructuredBreadcrumbs | default false }},
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {{- $position := 0 -}}
+        {{- range .Ancestors -}}
+          {{- if not .IsHome -}}
+            {{- $position = add $position 1 -}}
+            {
+              "@type": "ListItem",
+              "position": {{ $position }},
+              "name": "{{ .Title }}",
+              "item": {{ .Permalink }}
+            },
+          {{- end -}}
+        {{- end -}}
+        {{- $position = add $position 1 -}}
+        {
+          "@type": "ListItem",
+          "position": {{ $position }},
+          "name": "{{ .Title }}",
+          "item": {{ .Permalink }}
+        }
+      ]
+    }{{ end }}]
+    </script>
+  {{ else }}
+  <script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "articleSection": "{{ (site.GetPage .Section).Title | safeJS }}",
+    "name": "{{ .Title | safeJS }}",
+    "headline": "{{ .Title | safeJS }}",
+    {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
+    {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+    "url" : {{ .Permalink }},
+    "author" : {
+      "@type": "Person",
+      "name": "{{ .Site.Params.Author.name | safeJS }}"
+    },
+    {{ with .PublishDate }}"copyrightYear": "{{ .Format "2006" }}",{{ end }}
+    {{ with .Date }}"dateCreated": "{{ .Format $iso8601 }}",{{ end }}
+    {{ with .PublishDate }}"datePublished": "{{ .Format $iso8601 }}",{{ end }}
+    {{ with .ExpiryDate }}"expires": "{{ .Format $iso8601 }}",{{ end }}
+    {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
+    {{ if .Keywords }}
+    {{ with .Keywords }}"keywords": {{ . }},{{ end }}
+    {{ else }}
+    {{ with .Params.tags }}"keywords": {{ . }},{{ end }}
+    {{ end }}
+    "mainEntityOfPage": "true",
+    "wordCount": "{{ .WordCount }}"
+  }{{ if site.Params.enableStructuredBreadcrumbs | default false }},
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{- $position := 0 -}}
+      {{- range .Ancestors -}}
+        {{- if not .IsHome -}}
+          {{- $position = add $position 1 -}}
+          {
+            "@type": "ListItem",
+            "position": {{ $position }},
+            "name": "{{ .Title }}",
+            "item": {{ .Permalink }}
+          },
+        {{- end -}}
+      {{- end -}}
+      {{- $position = add $position 1 -}}
+      {
+        "@type": "ListItem",
+        "position": {{ $position }},
+        "name": "{{ .Title }}",
+        "item": {{ .Permalink }}
+      }
+    ]
+  }{{ end }}]
+  </script>
+  {{ end }}
+{{ end }}

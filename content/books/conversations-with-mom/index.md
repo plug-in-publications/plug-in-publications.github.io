@@ -7,6 +7,7 @@ categories: ["Adult", "Self-Help", "Memoir", "Relationships"]
 tags: ["Books", "Motherhood", "Cultural Heritage", "Wisdom", "Family", "Personal Growth"]
 type: "adult-books"
 weight: 11
+purchaseUrl: "https://www.amazon.com/Conversations-Mom-Self-Help-Amani-Dusi-ebook/dp/B0CVSD5RJ8/"
 ---
 
 > [!TIP] **Available Now!** 
