@@ -33,6 +33,13 @@ A gentle story that opens hearts, one lunch box at a time.
 The Story Inside My Lunchbox is a heartfelt celebration of cultural diversity, told through the most universal of experiences — a shared meal. When a young girl's cherished lunch from home is met with unkind words at school, she finds the courage to share not just her food, but the love and culture behind it. With empathy, warmth, and a touch of magic, this story reminds children that every family, every tradition, and every lunchbox carries a story worth honoring. It opens a door to conversations about kindness, belonging, and the richness of our differences.
 {{< /timelineItem >}}
 
+{{< timelineItem icon="globe" header="More Than a Meal" badge="the message" >}}
+A lunchbox is one of the first places a child's home culture shows up in public, in front of classmates 
+who may have never seen it before. By centering the story on that exact moment, the book turns a small, 
+everyday object into a way of talking about identity, pride, and belonging that children can immediately 
+recognize from their own lives.
+{{< /timelineItem >}}
+
 
 {{< timelineItem icon="bell" header="Perfect For Readers Who" badge="perfect for" >}}
 <ul>
@@ -57,6 +64,23 @@ The Story Inside My Lunchbox is a heartfelt celebration of cultural diversity, t
 </ul>
 {{< /typeit >}}
 
+{{< /timelineItem >}}
+
+{{< timelineItem icon="circle-question" header="Frequently Asked Questions" badge="faq" >}}
+<b>Does this book address bullying?</b><br>
+Gently, yes — through one specific moment of an unkind comment about a child's lunch, turned into a 
+lesson about curiosity, courage, and kindness rather than a general anti-bullying curriculum.
+<br><br>
+<b>Is this only relevant for children from immigrant or multicultural families?</b><br>
+No. It's written for every child — both the child whose lunch looks different from their classmates', and 
+the child learning to be curious and kind about someone else's.
+<br><br>
+<b>Can teachers use this in the classroom?</b><br>
+Yes. It works well as a read-aloud that opens up conversation about food, family traditions, and treating 
+classmates with respect.
+<br><br>
+<b>What age is this book written for?</b><br>
+It's a picture book for young children, well suited to both home reading and classroom read-alouds.
 {{< /timelineItem >}}
 
 {{< /timeline >}}

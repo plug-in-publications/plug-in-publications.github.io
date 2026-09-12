@@ -30,6 +30,12 @@ This heart-warming story teaches children the power of positive thinking, mindfu
 Zahra and the Garden of Thoughts invites children into a vivid, imaginative world where the mind is a garden — and every thought is a seed. With the playful guidance of Fairy Dot, young Zahra learns to tend her inner world: watering seeds of courage and joy, and gently pulling out the weeds of worry and doubt. This beautifully metaphorical story makes the concept of positive thinking accessible and memorable for children, giving them a tangible framework to understand their emotions and nurture a healthy, hopeful mindset — one thought at a time.
 {{< /timelineItem >}}
 
+{{< timelineItem icon="wand-magic-sparkles" header="Tending Your Own Inner Garden" badge="try it" >}}
+The garden metaphor is built to be reused long after the story ends. When a child mentions a worry, a 
+parent can gently ask, "is that a flower or a weed?" — giving them an easy, familiar way to notice a 
+thought without being overwhelmed by it, and to choose what to do next.
+{{< /timelineItem >}}
+
 
 {{< timelineItem icon="bell" header="Perfect For Readers Who" badge="perfect for" >}}
 <ul>
@@ -54,6 +60,24 @@ Zahra and the Garden of Thoughts invites children into a vivid, imaginative worl
 </ul>
 {{< /typeit >}}
 
+{{< /timelineItem >}}
+
+{{< timelineItem icon="circle-question" header="Frequently Asked Questions" badge="faq" >}}
+<b>Who is Fairy Dot?</b><br>
+Fairy Dot is the playful guide who helps Zahra understand how her thoughts work, walking alongside her as 
+she learns to tend her inner garden.
+<br><br>
+<b>Is this book only for children who struggle with anxiety or worry?</b><br>
+No — it's written for any child. Kids who deal with worry may find it especially comforting, but the 
+lesson about noticing and choosing thoughts is useful for every young mind.
+<br><br>
+<b>Does the book teach that negative thoughts are bad?</b><br>
+No, the opposite. Zahra learns that unhelpful thoughts, or "weeds," aren't something to feel ashamed of 
+— they just need attention and redirecting, like any part of a garden.
+<br><br>
+<b>What age is this book written for?</b><br>
+It's a picture book for young children, with a metaphor simple enough for early readers and rich enough 
+for grown-ups to enjoy discussing together.
 {{< /timelineItem >}}
 
 {{< /timeline >}}
