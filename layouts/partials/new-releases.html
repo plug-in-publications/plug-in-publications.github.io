@@ -1,9 +1,52 @@
 {{ $releases := first 3 (where .Site.RegularPages "Params.featured" true) }}
 {{ with $releases }}
   <h2 class="mt-8 text-2xl font-extrabold mb-4">New Releases</h2>
-  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 mb-10">
+  <section class="w-full mb-10" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(12rem,1fr));gap:2rem;justify-items:center;">
     {{ range . }}
-      {{ partial "article-link/card.html" . }}
+      {{ $cover := "" }}
+      {{ $images := .Resources.ByType "image" }}
+      {{ range slice "*feature*" "*cover*" "*thumbnail*" }}
+        {{ if not $cover }}{{ $cover = $images.GetMatch . }}{{ end }}
+      {{ end }}
+      {{ $alt := .Params.imageAlt }}
+      {{ if not $alt }}
+        {{ $alt = printf "%s book cover" .Title }}
+        {{ with .Params.summary | default .Params.description }}{{ $alt = printf "%s — %s" $alt . }}{{ end }}
+      {{ end }}
+      <article class="relative flex flex-col items-center text-center" style="width:100%;max-width:14rem;">
+        {{ with $cover }}
+          {{ if eq .Width .Height }}
+            <img
+              src="{{ (.Fill "500x500 center").RelPermalink }}"
+              alt="{{ $alt }}"
+              loading="lazy"
+              decoding="async"
+              class="not-prose border border-neutral-300 dark:border-neutral-600 shadow-lg" style="width:100%;aspect-ratio:1/1;border-radius:9999px;object-fit:cover;">
+          {{ else }}
+            {{ $w := float .Width }}
+            {{ $h := float .Height }}
+            {{ $d := math.Sqrt (add (mul $w $w) (mul $h $h)) }}
+            <div
+              class="border border-neutral-300 dark:border-neutral-600 shadow-lg"
+              style="width:100%;aspect-ratio:1/1;border-radius:9999px;background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden;">
+              <img
+                src="{{ (.Fit "500x500").RelPermalink }}"
+                alt="{{ $alt }}"
+                loading="lazy"
+                decoding="async"
+                class="not-prose" style="width:{{ mul (div $w $d) 92 }}%;height:{{ mul (div $h $d) 92 }}%;object-fit:contain;margin:0;">
+            </div>
+          {{ end }}
+        {{ end }}
+        <a
+          href="{{ .RelPermalink }}"
+          class="not-prose before:absolute before:inset-0 mt-4 text-xl font-bold text-neutral-800 dark:text-neutral decoration-primary-500 hover:underline hover:underline-offset-2">
+          <h3>{{ .Title | emojify }}</h3>
+        </a>
+        {{ with .Params.summary }}
+          <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">{{ . }}</p>
+        {{ end }}
+      </article>
     {{ end }}
   </section>
 {{ end }}
