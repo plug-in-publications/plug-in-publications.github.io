@@ -6,7 +6,7 @@ summary: "A Story about Mindfulness, Emotional Regulation, and Finding Peace Wit
 categories: ["Children", "Self-Help", "Relationships"]
 tags: ["Books", "Mindfulness", "Emotional Regulation", "Anxiety", "Calm", "Intergenerational"]
 type: "children-books"
-weight: 6
+weight: 5
 purchaseUrl: "https://www.amazon.com/Layla-Listens-Inside-mindfulness-regulation/dp/B0FYCXKMB1/"
 ---
 

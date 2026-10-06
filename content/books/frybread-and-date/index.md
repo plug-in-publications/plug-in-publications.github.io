@@ -6,7 +6,7 @@ summary: "A story about diversity, kindness, and learning about one another."
 categories: ["Children", "Relationships", "Cultural Heritage"]
 tags:  ["Books", "Books", "Diversity", "Empathy", "Kindness", "Inclusion"]
 type: "children-books"
-weight: 7
+weight: 4
 purchaseUrl: "https://www.amazon.com/Frybread-Date-diversity-kindness-learning/dp/B0H7XXK18F/"
 ---
 

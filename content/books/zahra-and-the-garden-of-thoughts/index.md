@@ -6,7 +6,7 @@ summary: "A Story for Growing a Healthy Mind and Bright, Positive Thoughts"
 categories: ["Children", "Self-Help", "Personal Development"]
 tags: ["Books", "Positive Thinking", "Mindfulness", "Emotional Intelligence", "Anxiety"]
 type: "children-books"
-weight: 5
+weight: 6
 purchaseUrl: "https://www.amazon.com/Zahra-Garden-Thoughts-Growing-Positive/dp/B0FZ9819T4/"
 ---
 
