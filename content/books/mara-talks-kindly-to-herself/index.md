@@ -7,6 +7,7 @@ categories: ["Children", "Self-Help", "Personal Development"]
 tags: ["Books", "Self-Talk", "Self-Worth", "Self-Love", "Emotional Intelligence", "Confidence"]
 type: "children-books"
 weight: 3
+featured: true
 purchaseUrl: "https://www.amazon.com/dp/B0HM3PGKMC/"
 isbn: "9798999309662"
 ---

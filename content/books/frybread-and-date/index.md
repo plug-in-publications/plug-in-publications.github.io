@@ -7,6 +7,7 @@ categories: ["Children", "Relationships", "Cultural Heritage"]
 tags:  ["Books", "Books", "Diversity", "Empathy", "Kindness", "Inclusion"]
 type: "children-books"
 weight: 4
+featured: true
 purchaseUrl: "https://www.amazon.com/Frybread-Date-diversity-kindness-learning/dp/B0H7XXK18F/"
 ---
 
