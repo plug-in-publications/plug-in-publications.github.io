@@ -12,14 +12,3 @@
   name = "About"
   pageRef = "about"
   weight = 30
-
-[[main]]
-  pre = "tiktok"
-  url = "https://www.tiktok.com/@plugin.publication/"
-  weight = 40
-
-#[[main]]
-#  identifier = "amazon"
-#  pre = "amazon"
-#  url = "https://www.amazon.com/stores/author/B0FZ5T8DKJ/"
-#  weight = 40

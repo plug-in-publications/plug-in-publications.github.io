@@ -7,6 +7,7 @@ headline = "Transforming Lives Through Powerful Stories"
 bio = "Plug-In Publications brings you books that inspire growth, self-discovery, and meaningful transformation"
 links = [
   { amazon = "https://www.amazon.com/stores/author/B0FZ5T8DKJ/" },
+  { youtube = "https://www.youtube.com/@Plug-inPublications/" },
   { tiktok = "https://www.tiktok.com/@plugin.publication/" },
   { linkedin = "https://linkedin.com/in/amaniaseel/" },
 ]
