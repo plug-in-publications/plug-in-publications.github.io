@@ -14,6 +14,7 @@ purchaseUrl: "https://www.amazon.com/Nora-Thankful-Star-Practicing-Gratitude/dp/
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Nora-Thankful-Star-Practicing-Gratitude/dp/B0FY5LFDZK/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="kgzJd8Y9Y1k" label="Nora and the Thankful Star" >}}
 
 **Nora and the Thankful Star** is a story about gratitude practice.
 When Nora looks up at the night sky, she wonders how wishes come true.

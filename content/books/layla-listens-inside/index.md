@@ -14,6 +14,7 @@ purchaseUrl: "https://www.amazon.com/Layla-Listens-Inside-mindfulness-regulation
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Layla-Listens-Inside-mindfulness-regulation/dp/B0FYCXKMB1/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="4UsrwzLN7HI" label="Layla Listens Inside" >}}
 **Layla Listens Inside** is a story about mindfulness, emotional regulation, and finding peace within.
 
 Layla is a bright little girl with a very busy mind. When her thoughts bounce around like playful goats, her wise great-grandmother gently shows her a way to slow them down. Through deep breaths and quiet moments, Layla learns how to “listen inside” — to hear her calm, loving voice that whispers, “You are safe. You are loved. You belong.”

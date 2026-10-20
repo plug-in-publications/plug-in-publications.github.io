@@ -16,6 +16,7 @@ isbn: "9798999309662"
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/dp/B0HM3PGKMC/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="_VJ64XST_NI" label="Mara Talks Kindly to Herself" >}}
 The first voice we hear in the morning is our own. So is the last one we hear at night.
 
 What if children learned, from a very young age, just how much that voice matters?

@@ -14,6 +14,7 @@ purchaseUrl: "https://www.amazon.com/Story-Inside-Lunchbox-Celebrating-diversity
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Story-Inside-Lunchbox-Celebrating-diversity/dp/B0FY5H8GL4/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="60d2Uhb-X6A" label="The Story Inside My Lunchbox" >}}
 
 Every lunch box carries more than food—it carries love, care, and a story from home.
 

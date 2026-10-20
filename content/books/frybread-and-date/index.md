@@ -15,6 +15,7 @@ purchaseUrl: "https://www.amazon.com/Frybread-Date-diversity-kindness-learning/d
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Frybread-Date-diversity-kindness-learning/dp/B0H7XXK18F/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="f2lhG6Z0JQ0" label="Frybread and Date" >}}
 **Frybread and Date**, two foods from different cultures meet for the first time and believe they are very different from one another. Frybread comes from warm family kitchens filled with stories and tradition, while Date comes from sunny groves far across the world where families gather and celebrate together.
 
 As they share their stories, songs, and traditions, they begin to discover how much they truly have in common. Both are made with love, shared with family, and bring comfort and joy to the people around them. Through kindness, curiosity, and respect, Frybread and Date learn that differences should be celebrated, not feared.

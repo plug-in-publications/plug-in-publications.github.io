@@ -14,6 +14,7 @@ purchaseUrl: "https://www.amazon.com/Zahra-Garden-Thoughts-Growing-Positive/dp/B
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Zahra-Garden-Thoughts-Growing-Positive/dp/B0FZ9819T4/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="YgUEQu-9Qoc" label="Zahra and the Garden of Thoughts" >}}
 **Zahra and the Garden of Thoughts** is a magical story about a little girl who learns that her mind is just like a garden. Every thought she thinks becomes a seed — some grow into bright flowers of courage, joy, and calm, and others can turn into weeds of worry or doubt.
 
 With the gentle guidance of Fairy Dot, Zahra learns how to plant good thoughts, pull out unhelpful ones, and choose the next positive thought one step at a time. As she cares for her inner garden, Zahra discovers that she can grow peace, confidence, and happiness from the inside out.
