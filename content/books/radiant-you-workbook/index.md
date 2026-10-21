@@ -16,6 +16,7 @@ purchaseUrl: "https://www.amazon.com/Radiant-You-Makeover-Workbook-Conversations
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Radiant-You-Makeover-Workbook-Conversations/dp/B0FFF1342V/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="fEVzvr8uMfM" label="The Radiant You" >}}
 **The Radiant You: A Mindset Makeover Workbook** is your comprehensive guide to personal transformation. 
 This beautifully crafted, interactive workbook takes you on a journey of self-discovery, helping you uncover 
 your authentic self and unleash the radiance that's been waiting inside you all along. Every day you postpone 

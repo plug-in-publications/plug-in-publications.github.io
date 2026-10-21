@@ -14,6 +14,7 @@ purchaseUrl: "https://www.amazon.com/Conversations-Mom-Self-Help-Amani-Dusi-eboo
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Conversations-Mom-Self-Help-Amani-Dusi-ebook/dp/B0CVSD5RJ8/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="oIwpWPCGGc8" label="Conversations with Mom" >}}
 **Conversations with Mom: Emotional Recipes for Self-Help** is more than a memoir. It's a fusion of 
 profound exchanges, timeless wisdom, and the aromatic essence of cultural heritage. 
 Step into the intimate conversations between a mother and her adult daughter as ordinary moments of 
