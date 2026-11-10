@@ -16,6 +16,8 @@ purchaseUrl: "https://www.amazon.com/dp/B0HR7CXK15/"
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/dp/B0HR7CXK15/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< youtubeLite id="FChqa--yIIM" label="Haskell for the Gloriously Lazy" >}}
+
 **You've read the Haskell tutorials. You nodded along for three chapters, hit the wall, and told yourself it would make sense later. It didn't.**
 
 **Haskell for the Gloriously Lazy: Household Disasters That Explain Functional Programming** takes a different route. 
