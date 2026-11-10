@@ -22,6 +22,7 @@ are adults on a journey of self-discovery or children taking their very first st
 - Interactive workbooks for personal development
 - Children's books that nurture emotional intelligence, mindfulness, and cultural pride
 - Stories that celebrate family, culture, and resilience across every generation
+- Light-hearted technology books that make complex ideas approachable through humor and everyday stories
 
 ## For Our Youngest Readers
 

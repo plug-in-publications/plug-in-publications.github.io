@@ -17,4 +17,8 @@ Our collection spans two complementary worlds: **self-help and personal developm
 for adults on a journey of transformation, and **children's books** that plant the seeds of 
 emotional intelligence, mindfulness, and cultural pride from the very start.
 
-Whether you're looking for your next personal breakthrough or a meaningful story to share with a child, you'll find it here.
+We also publish the occasional **technology and humor title** for curious adult readers, 
+because learning something new is part of growing too, and it goes down easier with a laugh.
+
+Whether you're looking for your next personal breakthrough, a meaningful story to share with a child, 
+or a funny way into a topic that has always felt out of reach, you'll find it here.
