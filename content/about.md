@@ -21,13 +21,14 @@ are adults on a journey of self-discovery or children taking their very first st
 - Inspiring memoirs and self-help guides for adults
 - Interactive workbooks for personal development
 - Children's books that nurture emotional intelligence, mindfulness, and cultural pride
+- Hands-on family workbooks that teach kids practical skills like earning, saving, and running a business
 - Stories that celebrate family, culture, and resilience across every generation
 - Light-hearted technology books that make complex ideas approachable through humor and everyday stories
 
 ## For Our Youngest Readers
 
 We are proud to grow our collection of children's books that plant the seeds of a healthy, joyful mind early in life.
-From gratitude and positive thinking to mindfulness, empathy, and cultural belonging, 
+From gratitude and positive thinking to mindfulness, empathy, cultural belonging, and money and everyday business skills, 
 our children's titles give young readers the inner tools they need to thrive — and give families meaningful stories to share together.
 
 

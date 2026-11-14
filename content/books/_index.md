@@ -15,7 +15,7 @@ and to connect more deeply with yourself and the people you love.
 
 Our collection spans two complementary worlds: **self-help and personal development books** 
 for adults on a journey of transformation, and **children's books** that plant the seeds of 
-emotional intelligence, mindfulness, and cultural pride from the very start.
+emotional intelligence, mindfulness, cultural pride, and practical life skills like money from the very start.
 
 We also publish the occasional **technology and humor title** for curious adult readers, 
 because learning something new is part of growing too, and it goes down easier with a laugh.
