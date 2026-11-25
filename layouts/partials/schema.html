@@ -33,8 +33,15 @@
   {{- range slice "*feature*" "*cover*" "*thumbnail*" -}}
     {{- if not $bookImage -}}{{- $bookImage = $images.GetMatch . -}}{{- end -}}
   {{- end -}}
+  {{- /* Authors come from the `authors` taxonomy; each links to its author page's Person. */ -}}
   {{- $author := dict "@type" "Organization" "name" $orgName -}}
-  {{- with .Params.author -}}{{- $author = dict "@type" "Person" "name" . -}}{{- end -}}
+  {{- with .GetTerms "authors" -}}
+    {{- $people := slice -}}
+    {{- range . -}}
+      {{- $people = $people | append (dict "@type" "Person" "@id" (printf "%s#person" .Permalink) "name" .Title "url" .Permalink) -}}
+    {{- end -}}
+    {{- $author = cond (eq (len $people) 1) (index $people 0) $people -}}
+  {{- end -}}
   {{- $book := dict
       "@type" "Book"
       "@id" (printf "%s#book" .Permalink)
@@ -61,6 +68,19 @@
     {{- $book = merge $book (dict "aggregateRating" (dict "@type" "AggregateRating" "ratingValue" .Params.ratingValue "reviewCount" .Params.reviewCount)) -}}
   {{- end -}}
   {{- $graph = $graph | append $book -}}
+
+{{- else if and (eq .Kind "term") (eq .Data.Plural "authors") -}}
+  {{- $person := dict
+      "@type" "Person"
+      "@id" (printf "%s#person" .Permalink)
+      "name" .Title
+      "url" .Permalink
+      "worksFor" (dict "@id" (printf "%s#organization" site.Home.Permalink))
+  -}}
+  {{- with .Description -}}{{- $person = merge $person (dict "description" .) -}}{{- end -}}
+  {{- with .Resources.GetMatch "*feature*" -}}{{- $person = merge $person (dict "image" .Permalink) -}}{{- end -}}
+  {{- with .Params.sameAs -}}{{- $person = merge $person (dict "sameAs" .) -}}{{- end -}}
+  {{- $graph = $graph | append (dict "@type" "ProfilePage" "url" .Permalink "mainEntity" $person) -}}
 
 {{- else if .IsPage -}}
   {{- $article := dict

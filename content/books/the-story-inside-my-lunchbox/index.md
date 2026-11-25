@@ -5,11 +5,11 @@ description: "The Story Inside My Lunchbox is a children's book about cultural d
 showSummary: true
 summary: "Celebrating Cultural Diversity, with Kindness, Respect, and Love"
 categories: ["Children", "Relationships", "Cultural Heritage"]
-tags: ["Books", "Books", "Diversity", "Empathy", "Kindness", "Inclusion"]
+tags: ["Diversity", "Empathy", "Kindness", "Inclusion"]
 type: "children-books"
 weight: 7
 purchaseUrl: "https://www.amazon.com/Story-Inside-Lunchbox-Celebrating-diversity/dp/B0FY5H8GL4/"
-author: "Amani Aseel"
+authors: ["amani-aseel"]
 date: 2025-10-28
 isbn: "9798999309600"
 bookFormat: "Paperback"

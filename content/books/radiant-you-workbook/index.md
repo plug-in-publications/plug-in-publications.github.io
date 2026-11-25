@@ -6,12 +6,12 @@ description: "The Radiant You: A Mindset Makeover Workbook, an interactive self-
 showSummary: true
 summary: "A Mindset Makeover Workbook"
 categories: ["Adult", "Self-Help", "Personal Development", "Workbooks"]
-tags: ["Books", "Mindset", "Self-Discovery", "Transformation", "Interactive" ,"Journaling"]
+tags: ["Mindset", "Self-Discovery", "Transformation", "Interactive", "Journaling"]
 type: "adult-books"
 weight: 12
 featured: true
 purchaseUrl: "https://www.amazon.com/Radiant-You-Makeover-Workbook-Conversations/dp/B0FFF1342V/"
-author: "Amani Aseel"
+authors: ["amani-aseel"]
 date: 2025-06-20
 isbn: "9798999309617"
 bookFormat: "Paperback"

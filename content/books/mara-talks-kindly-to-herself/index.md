@@ -5,13 +5,13 @@ description: "Mara Talks Kindly to Herself is a children's book about positive s
 showSummary: true
 summary: "A Story about Positive Self-Talk, Self-Worth, and Self-Love"
 categories: ["Children", "Self-Help", "Personal Development"]
-tags: ["Books", "Self-Talk", "Self-Worth", "Self-Love", "Emotional Intelligence", "Confidence"]
+tags: ["Self-Talk", "Self-Worth", "Self-Love", "Emotional Intelligence", "Confidence"]
 type: "children-books"
 weight: 3
 featured: true
 purchaseUrl: "https://www.amazon.com/dp/B0HM3PGKMC/"
 isbn: "9798999309662"
-author: "Amani Aseel"
+authors: ["amani-aseel"]
 date: 2026-10-05
 bookFormat: "Paperback"
 numberOfPages: 40

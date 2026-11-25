@@ -40,3 +40,9 @@ showHero = true
 # [verification]
 #   google = ""
 #   bing = ""
+
+[sitemap]
+# Include term pages (author pages, category landing pages) in the sitemap.
+# Tag pages and non-landing categories opt out via `sitemap.disable` cascades
+# in content/tags/_index.md and content/categories/_index.md.
+excludedKinds = ["taxonomy"]

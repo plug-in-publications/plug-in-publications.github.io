@@ -5,12 +5,12 @@ description: "Frybread and Date is a children's picture book about cultural dive
 showSummary: true
 summary: "A story about diversity, kindness, and learning about one another."
 categories: ["Children", "Relationships", "Cultural Heritage"]
-tags:  ["Books", "Books", "Diversity", "Empathy", "Kindness", "Inclusion"]
+tags: ["Diversity", "Empathy", "Kindness", "Inclusion"]
 type: "children-books"
 weight: 4
 featured: false
 purchaseUrl: "https://www.amazon.com/Frybread-Date-diversity-kindness-learning/dp/B0H7XXK18F/"
-author: "Amani Aseel"
+authors: ["amani-aseel"]
 date: 2026-06-19
 isbn: "9798999309655"
 bookFormat: "Paperback"

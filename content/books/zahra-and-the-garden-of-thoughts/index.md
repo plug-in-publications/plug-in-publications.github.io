@@ -5,11 +5,11 @@ description: "Zahra and the Garden of Thoughts is a children's book about positi
 showSummary: true
 summary: "A Story for Growing a Healthy Mind and Bright, Positive Thoughts"
 categories: ["Children", "Self-Help", "Personal Development"]
-tags: ["Books", "Positive Thinking", "Mindfulness", "Emotional Intelligence", "Anxiety"]
+tags: ["Positive Thinking", "Mindfulness", "Emotional Intelligence", "Anxiety"]
 type: "children-books"
 weight: 6
 purchaseUrl: "https://www.amazon.com/Zahra-Garden-Thoughts-Growing-Positive/dp/B0FZ9819T4/"
-author: "Amani Aseel"
+authors: ["amani-aseel"]
 date: 2025-11-03
 isbn: "9798999309648"
 bookFormat: "Paperback"

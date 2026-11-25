@@ -1,0 +1,12 @@
+{{/* Round author portrait from a page resource.
+     Usage: {{< author-photo src="featured.jpg" alt="Portrait of ..." >}} */}}
+{{- $src := .Get "src" | default "featured.jpg" -}}
+{{- $alt := .Get "alt" | default .Page.Title -}}
+{{- with .Page.Resources.GetMatch $src -}}
+  {{- $img := .Fill "480x480 Center q85" -}}
+  <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" width="200" height="200"
+    class="nozoom"
+    style="width:200px;height:200px;object-fit:cover;border-radius:9999px;margin:0 0 1.5rem 0;">
+{{- else -}}
+  {{- errorf "author-photo: resource %q not found in %s" $src .Page.File.Path -}}
+{{- end -}}

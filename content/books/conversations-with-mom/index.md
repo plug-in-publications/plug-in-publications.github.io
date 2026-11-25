@@ -5,11 +5,11 @@ description: "Conversations with Mom: Emotional Recipes for Self-Help, a memoir 
 showSummary: true
 summary: "Emotional Recipes for Self-Help"
 categories: ["Adult", "Self-Help", "Memoir", "Relationships"]
-tags: ["Books", "Motherhood", "Cultural Heritage", "Wisdom", "Family", "Personal Growth"]
+tags: ["Motherhood", "Cultural Heritage", "Wisdom", "Family", "Personal Growth"]
 type: "adult-books"
 weight: 11
 purchaseUrl: "https://www.amazon.com/Conversations-Mom-Self-Help-Amani-Dusi-ebook/dp/B0CVSD5RJ8/"
-author: "Amani Aseel"
+authors: ["amani-aseel"]
 date: 2024-02-15
 isbn: "9798218306960"
 bookFormat: "EBook"

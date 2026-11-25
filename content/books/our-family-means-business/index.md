@@ -5,11 +5,11 @@ description: "A hands-on money workbook for kids and parents: earning, pricing, 
 showSummary: true
 summary: "A Kid's Guide to Earning, Owning, and Growing"
 categories: ["Children", "Financial Literacy", "Entrepreneurship", "Workbooks"]
-tags: ["Books", "Money Skills", "Homeschool", "Family Activities", "Budgeting", "Classroom"]
+tags: ["Money Skills", "Homeschool", "Family Activities", "Budgeting", "Classroom"]
 type: "children-books"
 weight: 2
 date: 2026-11-14
-author: "Maurizio Dusi"
+authors: ["maurizio-dusi"]
 featured: true
 purchaseUrl: "https://www.amazon.com/dp/B0HRQ3R7YT/"
 isbn: "9798999309679"

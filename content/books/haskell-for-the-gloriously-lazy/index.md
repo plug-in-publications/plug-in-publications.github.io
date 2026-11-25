@@ -5,11 +5,11 @@ description: "Haskell for the Gloriously Lazy explains functional programming, f
 showSummary: true
 summary: "Household Disasters That Explain Functional Programming"
 categories: ["Adult", "Technology", "Programming", "Humor"]
-tags: ["Books", "Haskell", "Functional Programming", "Software Development", "Learning"]
+tags: ["Haskell", "Functional Programming", "Software Development", "Learning"]
 type: "adult-books"
 weight: 13
 date: 2026-11-10
-author: "Maurizio Dusi"
+authors: ["maurizio-dusi"]
 purchaseUrl: "https://www.amazon.com/dp/B0HR7CXK15/"
 bookFormat: "EBook"
 numberOfPages: 40

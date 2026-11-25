@@ -6,7 +6,8 @@ cardView: true
 showCards: true
 groupByYear: false
 cascade:
-  showRelatedContent: true  # related books only on book pages
+  showRelatedContent: true
+  showAuthorBottom: true    # "About the author" box (data/authors) at the end of each book  # related books only on book pages
   showHero: true            # show the cover image as hero
   heroStyle: "background"        # options: basic, big, background, thumbAndBackground
   showReadingTime: false
