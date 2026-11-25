@@ -5,6 +5,8 @@ enableEmoji = true
 # mainSections = ["adult-books", "workshops", "children-books"]
 mainSections = ["adult-books", "children-books", "workshops"]
 defaultSocialImage = "img/logo.png"
+description = "Plug-In Publications publishes children's books, self-help books and seasonal workshops for personal growth, self-discovery and meaningful transformation."
+enableStructuredBreadcrumbs = true
 # defaultAppearance = "dark"
 # logo = "img/logo.png"
 
@@ -21,6 +23,7 @@ showWordCount = false
 showAuthor = false
 showTableOfContents = true
 showTaxonomies = true
+relatedContentLimit = 3
 
 [list]
 groupByYear = false
@@ -32,3 +35,8 @@ showThemeAttribution = false
 [taxonomy]
 heroStyle = "basic"
 showHero = true
+
+# Add your Search Console / Bing verification codes, then uncomment.
+# [verification]
+#   google = ""
+#   bing = ""

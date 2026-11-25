@@ -1,6 +1,7 @@
 ---
 title: "Nora And The Thankful Star"
-description: "Nora and the Thankful Star: A Story about Practicing Gratitude"
+seoTitle: "Nora and the Thankful Star – Children's Book About Gratitude"
+description: "Nora and the Thankful Star is a gentle bedtime story that teaches children gratitude: a glowing star shows Nora that the magic is in being thankful."
 showSummary: true
 summary: "A Story about Practicing Gratitude"
 categories: ["Children", "Relationships", "Self-Help"]
@@ -8,6 +9,12 @@ tags: ["Books", "Gratitude", "Bedtime Stories", "Emotional Wellness", "Mindfulne
 type: "children-books"
 weight: 8
 purchaseUrl: "https://www.amazon.com/Nora-Thankful-Star-Practicing-Gratitude/dp/B0FY5LFDZK/"
+author: "Amani Aseel"
+date: 2025-10-28
+isbn: "9798999309631"
+bookFormat: "Paperback"
+numberOfPages: 26
+readingAge: "3-12"
 ---
 
 > [!TIP] **Available Now!** 
@@ -23,7 +30,7 @@ The more we are thankful for what we already have, the closer our wishes come to
 
 Through this simple, heartwarming story, children learn to practice gratitude, count their blessings to keep a content, joyful heart.
 
-![Nora and the Thankful Star Book Cover](nora-and-the-thankful-start-cover.jpg)
+![Cover of Nora and the Thankful Star, a children's bedtime story about gratitude](nora-and-the-thankful-start-cover.jpg)
 
 
 {{< timeline >}}

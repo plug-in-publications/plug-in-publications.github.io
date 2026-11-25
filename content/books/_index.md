@@ -1,10 +1,12 @@
 ---
 title: "Our Books"
-description: "Welcome to our collection."
+seoTitle: "Children's Books & Self-Help Books"
+description: "Children's picture books on mindfulness, gratitude, cultural diversity and money skills, plus self-help books and workbooks for adults."
 cardView: true
 showCards: true
 groupByYear: false
 cascade:
+  showRelatedContent: true  # related books only on book pages
   showHero: true            # show the cover image as hero
   heroStyle: "background"        # options: basic, big, background, thumbAndBackground
   showReadingTime: false

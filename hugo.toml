@@ -6,6 +6,10 @@ theme = "blowfish"
 baseURL = "https://plug-in-publications.github.io/"
 defaultContentLanguage = "en"
 
+# Use the last git commit date of each content file as its lastmod (sitemap + structured data).
+# CI checks out with fetch-depth: 0, so full history is available.
+enableGitInfo = true
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
@@ -35,9 +39,10 @@ enableEmoji = true
   series = "series"
 
 [sitemap]
-  changefreq = 'daily'
+  # changefreq/priority are ignored by Google; lastmod (from git) is what matters.
+  changefreq = ''
   filename = 'sitemap.xml'
-  priority = 0.5
+  priority = -1
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

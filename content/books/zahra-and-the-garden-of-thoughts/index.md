@@ -1,6 +1,7 @@
 ---
 title: "Zahra And The Garden Of Thoughts"
-description: "Zahra and the Garden Of Thoughts: A Story for Growing a Healthy Mind and Bright, Positive Thoughts"
+seoTitle: "Zahra and the Garden of Thoughts – Children's Book About Positive Thinking"
+description: "Zahra and the Garden of Thoughts is a children's book about positive thinking and mindfulness that helps kids grow a calm, healthy mind."
 showSummary: true
 summary: "A Story for Growing a Healthy Mind and Bright, Positive Thoughts"
 categories: ["Children", "Self-Help", "Personal Development"]
@@ -8,6 +9,12 @@ tags: ["Books", "Positive Thinking", "Mindfulness", "Emotional Intelligence", "A
 type: "children-books"
 weight: 6
 purchaseUrl: "https://www.amazon.com/Zahra-Garden-Thoughts-Growing-Positive/dp/B0FZ9819T4/"
+author: "Amani Aseel"
+date: 2025-11-03
+isbn: "9798999309648"
+bookFormat: "Paperback"
+numberOfPages: 26
+readingAge: "3-12"
 ---
 
 > [!TIP] **Available Now!** 
@@ -22,7 +29,7 @@ With the gentle guidance of Fairy Dot, Zahra learns how to plant good thoughts, 
 This heart-warming story teaches children the power of positive thinking, mindfulness, and emotional care. It helps young readers build a healthy mind, understand their feelings, and believe in their ability to make their inner world bloom — one thought at a time.
 
 
-![Zahra and the Garden Of Thoughts Book Cover](zahra-and-the-garden-of-thoughts-cover.jpg)
+![Cover of Zahra and the Garden of Thoughts, a children's book about positive thinking](zahra-and-the-garden-of-thoughts-cover.jpg)
 
 
 {{< timeline >}}

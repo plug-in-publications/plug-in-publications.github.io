@@ -1,4 +1,9 @@
+languageCode = "en-us"
+languageName = "English"
 title = "Plug-In Publications"
+
+[params]
+isoCode = "en"
 
 [params.author]
 name = "Plug-In Publications"

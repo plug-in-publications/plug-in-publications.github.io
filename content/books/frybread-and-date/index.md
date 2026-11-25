@@ -1,6 +1,7 @@
 ---
 title: "Frybread And Date"
-description: "Frybread And Date: A story about diversity, kindness, and learning about one another."
+seoTitle: "Frybread and Date – Children's Book About Diversity & Kindness"
+description: "Frybread and Date is a children's picture book about cultural diversity, kindness and friendship: two foods discover how much they have in common."
 showSummary: true
 summary: "A story about diversity, kindness, and learning about one another."
 categories: ["Children", "Relationships", "Cultural Heritage"]
@@ -9,6 +10,12 @@ type: "children-books"
 weight: 4
 featured: false
 purchaseUrl: "https://www.amazon.com/Frybread-Date-diversity-kindness-learning/dp/B0H7XXK18F/"
+author: "Amani Aseel"
+date: 2026-06-19
+isbn: "9798999309655"
+bookFormat: "Paperback"
+numberOfPages: 30
+readingAge: "2-12"
 ---
 
 > [!TIP] **Available Now!** 
@@ -22,7 +29,7 @@ As they share their stories, songs, and traditions, they begin to discover how m
 
 In the end, they realize that although people, foods, and cultures may look different on the outside, our hearts are often wonderfully alike. Their friendship teaches children that diversity makes the world richer, and that love and respect can bring everyone together.
 
-![Frybread And Date Book Cover](frybread-and-date-cover.jpg)
+![Cover of Frybread and Date, a children's picture book about cultural diversity and kindness](frybread-and-date-cover.jpg)
 
 
 {{< timeline >}}

@@ -1,12 +1,17 @@
 ---
 title: "Summer Workshops"
-description: "Summer: Navigate, Discover & Radiate"
+seoTitle: "Summer Workshops – Navigating Separation & Finding Your Passion"
+description: "Summer workshops on moving through separation with grace and emotional intelligence, and on discovering your authentic passions through guided mindset work."
 showSummary: true
 summary: "Navigate, Discover & Radiate"
 #categories: ["Self-Help", "Memoir", "Relationships"]
 #tags: ["Workshops", "Personal Growth"]
 weight: 2
 ---
+
+{{< lead >}}
+Summer is the season of light, movement and aliveness. The Summer workshops are for adults going through change, whether an ending or a new chapter, and for anyone ready to rediscover what truly lights them up.
+{{< /lead >}}
 
 ## 1. Separation
 ### **The Art Of Navigating It**
@@ -29,3 +34,10 @@ Summer is the season of aliveness - and this workshop dares you to ask: what tru
 Through guided exploration, mindset work, and discovery exercises, you'll uncover your authentic passions and learn to pursue them without apology.
 
 {{< /alert >}}
+
+## Join a Workshop
+
+If you enjoy this kind of mindset work, you may also like our self-help titles
+[The Radiant You workbook](/books/radiant-you-workbook/) and
+[Conversations With Mom](/books/conversations-with-mom/).
+To ask about upcoming dates or to reserve your place, {{< button href="/contact/" target="_self" >}} Get in touch {{< /button >}}

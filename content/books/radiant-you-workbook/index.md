@@ -1,7 +1,8 @@
 ---
 title: "The Radiant You"
+seoTitle: "The Radiant You – Mindset Makeover Workbook for Personal Growth"
 # title: "🌟 The Radiant You"
-description: "The Radiant You: A Mindset Makeover Workbook"
+description: "The Radiant You: A Mindset Makeover Workbook, an interactive self-help workbook for self-discovery, journaling and personal transformation."
 showSummary: true
 summary: "A Mindset Makeover Workbook"
 categories: ["Adult", "Self-Help", "Personal Development", "Workbooks"]
@@ -10,6 +11,11 @@ type: "adult-books"
 weight: 12
 featured: true
 purchaseUrl: "https://www.amazon.com/Radiant-You-Makeover-Workbook-Conversations/dp/B0FFF1342V/"
+author: "Amani Aseel"
+date: 2025-06-20
+isbn: "9798999309617"
+bookFormat: "Paperback"
+numberOfPages: 142
 ---
 
 > [!TIP] **Available Now!** 
@@ -23,7 +29,7 @@ your authentic self and unleash the radiance that's been waiting inside you all 
 investing in yourself is another day you're not living your fullest potential. 
 Join thousands of others who've already begun their radiant transformation.
 
-![The Radiant You Workbook Cover](radiant-you-cover.png)
+![Cover of The Radiant You: A Mindset Makeover Workbook for personal growth](radiant-you-cover.jpg)
 
 
 {{< timeline >}}

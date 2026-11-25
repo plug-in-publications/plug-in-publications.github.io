@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Plug-In Publications"
+seoTitle: "Plug-In Publications – Children's Books, Self-Help Books & Workshops"
 description: "Plug-In Publications publishes children's books, adult self-help books, and seasonal workshops for personal growth, self-discovery, and meaningful transformation."
 ---
 

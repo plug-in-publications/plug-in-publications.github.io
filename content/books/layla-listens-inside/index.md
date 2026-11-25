@@ -1,6 +1,7 @@
 ---
 title: "Layla Listens Inside"
-description: "Layla Listens Inside: a Story about Mindfulness, Emotional Regulation, and Finding Peace Within."
+seoTitle: "Layla Listens Inside – Children's Book About Mindfulness & Calm"
+description: "Layla Listens Inside is a children's book about mindfulness and emotional regulation that helps kids calm anxiety and find peace within."
 showSummary: true
 summary: "A Story about Mindfulness, Emotional Regulation, and Finding Peace Within."
 categories: ["Children", "Self-Help", "Relationships"]
@@ -8,6 +9,12 @@ tags: ["Books", "Mindfulness", "Emotional Regulation", "Anxiety", "Calm", "Inter
 type: "children-books"
 weight: 5
 purchaseUrl: "https://www.amazon.com/Layla-Listens-Inside-mindfulness-regulation/dp/B0FYCXKMB1/"
+author: "Amani Aseel"
+date: 2025-10-29
+isbn: "9798999309624"
+bookFormat: "Paperback"
+numberOfPages: 29
+readingAge: "3-12"
 ---
 
 > [!TIP] **Available Now!** 
@@ -21,7 +28,7 @@ Layla is a bright little girl with a very busy mind. When her thoughts bounce ar
 
 Layla Listens Inside, is a mindful story that helps children understand emotional regulation, calming anxiety, self-soothing and to remember that peace begins within.
 
-![Layla Listens Inside Book Cover](layla-listens-inside-cover.jpg)
+![Cover of Layla Listens Inside, a children's book about mindfulness and emotional regulation](layla-listens-inside-cover.jpg)
 
 
 {{< timeline >}}

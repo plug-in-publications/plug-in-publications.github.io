@@ -1,6 +1,7 @@
 ---
 title: "Mara Talks Kindly to Herself"
-description: "Mara Talks Kindly to Herself: A Story about Positive Self-Talk, Self-Worth, and Self-Love"
+seoTitle: "Mara Talks Kindly to Herself – Children's Book About Positive Self-Talk"
+description: "Mara Talks Kindly to Herself is a children's book about positive self-talk, self-worth and self-love that helps kids become their own best friend."
 showSummary: true
 summary: "A Story about Positive Self-Talk, Self-Worth, and Self-Love"
 categories: ["Children", "Self-Help", "Personal Development"]
@@ -10,6 +11,10 @@ weight: 3
 featured: true
 purchaseUrl: "https://www.amazon.com/dp/B0HM3PGKMC/"
 isbn: "9798999309662"
+author: "Amani Aseel"
+date: 2026-10-05
+bookFormat: "Paperback"
+numberOfPages: 40
 ---
 
 > [!TIP] **Available Now!** 
@@ -27,7 +32,7 @@ Mara is often hard on herself. When she makes mistakes or feels unsure, her inne
 
 Teaching children to speak kindly to themselves is a gift they can carry for a lifetime.
 
-![Mara Talks Kindly to Herself Book Cover](mara-talks-kindly-to-herself-cover.jpg)
+![Cover of Mara Talks Kindly to Herself, a children's book about positive self-talk and self-worth](mara-talks-kindly-to-herself-cover.jpg)
 
 {{< timeline >}}
 

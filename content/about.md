@@ -1,6 +1,7 @@
 ---
 title: "About Us"
-description: "About Us"
+seoTitle: "About Plug-In Publications – Children's & Self-Help Book Publisher"
+description: "Plug-In Publications publishes children's books on emotional wellness, cultural pride and money skills, plus self-help books and workbooks for adults."
 showSummary: true
 ---
 

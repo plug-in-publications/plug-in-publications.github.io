@@ -1,6 +1,7 @@
 ---
 title: "Haskell for the Gloriously Lazy"
-description: "Haskell for the Gloriously Lazy: Household Disasters That Explain Functional Programming"
+seoTitle: "Haskell for the Gloriously Lazy – Funny Intro to Functional Programming"
+description: "Haskell for the Gloriously Lazy explains functional programming, from recursion to monads, through funny household disasters. A light Haskell book."
 showSummary: true
 summary: "Household Disasters That Explain Functional Programming"
 categories: ["Adult", "Technology", "Programming", "Humor"]
@@ -10,6 +11,8 @@ weight: 13
 date: 2026-11-10
 author: "Maurizio Dusi"
 purchaseUrl: "https://www.amazon.com/dp/B0HR7CXK15/"
+bookFormat: "EBook"
+numberOfPages: 40
 ---
 
 > [!TIP] **Available Now!** 
@@ -28,7 +31,7 @@ a neighbor who repaints borrowed lawnmowers, and a mother-in-law who visits in t
 Eleven episodes. No syntax lectures. A few lines of real Haskell at the end of each chapter, unexplained, for the curious. 
 Not a manual. A warm-up. And, with one regrettable exception, no burritos.
 
-![Haskell for the Gloriously Lazy Book Cover](haskell-for-the-gloriously-lazy-cover.jpg)
+![Cover of Haskell for the Gloriously Lazy, a humorous book about functional programming](haskell-for-the-gloriously-lazy-cover.jpg)
 
 {{< timeline >}}
 
@@ -88,7 +91,7 @@ Recursion, lazy evaluation, pure functions, immutability, types, typeclasses, ma
 matching, Maybe, IO and monads.
 <br><br>
 <b>How long is it, and what format is it in?</b><br>
-It's about 40 pages across eleven short episodes, available as a Kindle edition on Amazon.
+It's 40 pages across eleven short episodes, available as a Kindle edition on Amazon.
 {{< /timelineItem >}}
 
 {{< /timeline >}}

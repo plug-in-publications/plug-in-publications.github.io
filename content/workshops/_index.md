@@ -1,6 +1,7 @@
 ---
 title: "Our Workshops"
-description: "Welcome to our workshops."
+seoTitle: "Seasonal Personal-Growth Workshops"
+description: "Seasonal personal-growth workshops on limiting beliefs, intention setting, self-worth, relationships, gratitude and finding your passion."
 cardView: true
 showCards: true
 groupByYear: false

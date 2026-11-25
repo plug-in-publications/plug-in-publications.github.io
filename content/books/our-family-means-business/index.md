@@ -1,6 +1,7 @@
 ---
 title: "Our Family Means Business!"
-description: "Our Family Means Business!: A Kid's Guide to Earning, Owning, and Growing"
+seoTitle: "Our Family Means Business! – Kids' Money & Entrepreneurship Workbook"
+description: "A hands-on money workbook for kids and parents: earning, pricing, budgeting, keeping a ledger and a balance sheet. Great for homeschool and classrooms."
 showSummary: true
 summary: "A Kid's Guide to Earning, Owning, and Growing"
 categories: ["Children", "Financial Literacy", "Entrepreneurship", "Workbooks"]
@@ -12,6 +13,8 @@ author: "Maurizio Dusi"
 featured: true
 purchaseUrl: "https://www.amazon.com/dp/B0HRQ3R7YT/"
 isbn: "9798999309679"
+bookFormat: "Paperback"
+numberOfPages: 90
 ---
 
 > [!TIP] **Available Now!** 
@@ -28,7 +31,7 @@ Then a goose in glasses waddles into the kitchen and announces that their family
 
 **Our Family Means Business!** is a hands-on workbook for kids and their parents. The best way to learn how money works is to run the company you already live in.
 
-![Our Family Means Business Book Cover](our-family-means-business-cover.png)
+![Cover of Our Family Means Business!, a kids' money and entrepreneurship workbook](our-family-means-business-cover.jpg)
 
 
 {{< timeline >}}
