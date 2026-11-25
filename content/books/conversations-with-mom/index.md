@@ -1,6 +1,6 @@
 ---
-title: "Conversations With Mom"
-seoTitle: "Conversations With Mom – Self-Help Memoir on Family & Cultural Heritage"
+title: "Conversations with Mom"
+seoTitle: "Conversations with Mom – Self-Help Memoir on Family & Cultural Heritage"
 description: "Conversations with Mom: Emotional Recipes for Self-Help, a memoir of a mother and her adult daughter turning everyday moments into life lessons."
 showSummary: true
 summary: "Emotional Recipes for Self-Help"
@@ -19,6 +19,8 @@ numberOfPages: 226
 > [!TIP] **Available Now!** 
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Conversations-Mom-Self-Help-Amani-Dusi-ebook/dp/B0CVSD5RJ8/" target="_blank" >}} Amazon {{< /button >}}
+
+{{< book-details >}}
 
 {{< youtubeLite id="oIwpWPCGGc8" label="Conversations with Mom" >}}
 **Conversations with Mom: Emotional Recipes for Self-Help** is more than a memoir. It's a fusion of 
@@ -67,18 +69,14 @@ to taste, to adjust, and to make it fit your own life, your own kitchen, your ow
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="Key Themes & Takeaways" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b> Mother-Daughter Bond</b>: Explore the deep connection between generations and how wisdom passes from mother to child through everyday moments.</li>
     <li><b>Self-Discovery Tools</b>: Discover practical approaches to personal growth through the comforting guidance shared between family members. </li>
-    <li><b>Cultural Heritage</b>: Experience exotic recipes that serve as metaphors for life lessons and connect readers to rich cultural traditions. </li>
+    <li><b>Cultural Heritage</b>: Discover cherished family recipes that serve as metaphors for life lessons and connect readers to rich cultural traditions. </li>
     <li><b>Life Perspective</b>: Gain fresh insights on viewing challenges through the lens of shared family wisdom and experience.</li>
     <li><b>Everyday Ritual as Teacher</b>: See how ordinary chores and routines can become quiet ceremonies of connection and learning.</li>
     <li><b>Intergenerational Healing</b>: Consider how understanding a parent's story can reshape your own.</li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 

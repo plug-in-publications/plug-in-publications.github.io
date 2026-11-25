@@ -12,5 +12,5 @@ interactive workbooks for adults to picture books that introduce children to the
 noticing their thoughts, speaking kindly to themselves, and finding calm and gratitude in everyday life.
 
 For adults, [The Radiant You](/books/radiant-you-workbook/) is a mindset makeover workbook for
-self-discovery and transformation, and [Conversations With Mom](/books/conversations-with-mom/)
+self-discovery and transformation, and [Conversations with Mom](/books/conversations-with-mom/)
 shares a mother's emotional recipes for life, passed on over everyday moments at home.

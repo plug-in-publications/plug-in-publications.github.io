@@ -1,0 +1,21 @@
+{{/* Author cards built from data/authors/*.json, each linking to /authors/<key>/.
+     Usage: {{< meet-authors >}} */}}
+<div class="not-prose" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:1.5rem;margin:1.5rem 0;">
+{{- range $key, $a := site.Data.authors }}
+  {{- $term := site.GetPage (printf "/authors/%s" $key) }}
+  {{- $link := cond (ne $term nil) $term.RelPermalink (printf "/authors/%s/" $key) }}
+  <a href="{{ $link }}" class="block rounded-xl border border-neutral-300 dark:border-neutral-600 hover:border-primary-500"
+     style="display:flex;gap:1rem;align-items:flex-start;padding:1rem;text-decoration:none;">
+    {{- with $a.image }}{{ with resources.Get . }}
+      {{- $img := .Fill "192x192 Center q85" }}
+      <img src="{{ $img.RelPermalink }}" alt="Portrait of author {{ $a.name }}" width="96" height="96" loading="lazy"
+           style="width:96px;height:96px;border-radius:9999px;object-fit:cover;flex-shrink:0;">
+    {{- end }}{{ end }}
+    <span style="display:block;">
+      <span class="text-lg font-bold text-neutral-900 dark:text-neutral" style="display:block;">{{ $a.name }}</span>
+      <span class="text-sm text-neutral-600 dark:text-neutral-400" style="display:block;margin-top:.25rem;">{{ $a.bio }}</span>
+      <span class="text-sm text-primary-600 dark:text-primary-400" style="display:block;margin-top:.5rem;">Read more →</span>
+    </span>
+  </a>
+{{- end }}
+</div>

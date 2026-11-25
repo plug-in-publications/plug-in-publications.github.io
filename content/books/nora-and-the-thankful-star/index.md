@@ -1,5 +1,5 @@
 ---
-title: "Nora And The Thankful Star"
+title: "Nora and the Thankful Star"
 seoTitle: "Nora and the Thankful Star – Children's Book About Gratitude"
 description: "Nora and the Thankful Star is a gentle bedtime story that teaches children gratitude: a glowing star shows Nora that the magic is in being thankful."
 showSummary: true
@@ -20,6 +20,8 @@ readingAge: "3-12"
 > [!TIP] **Available Now!** 
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Nora-Thankful-Star-Practicing-Gratitude/dp/B0FY5LFDZK/" target="_blank" >}} Amazon {{< /button >}}
+
+{{< book-details >}}
 
 {{< youtubeLite id="kgzJd8Y9Y1k" label="Nora and the Thankful Star" >}}
 
@@ -61,9 +63,6 @@ lights out, the same way Nora looks to her star.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="Key Themes & Takeaways" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b>Gratitude as a daily practice</b>: children learn that saying "thank you" goes beyond good manners; it's a way of seeing the world.</li>
     <li><b>Contentment over comparison</b>: the story gently teaches that happiness lives in what we already have. </li>
@@ -71,7 +70,6 @@ lights out, the same way Nora looks to her star.
     <li><b>The beauty of the ordinary</b>: everyday moments become magical through a lens of appreciation. </li>
     <li><b>Emotional well-being</b>: counting blessings is shown as a simple, powerful tool for a joyful mind. </li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 
@@ -89,8 +87,7 @@ Yes — it pairs naturally with a bedtime routine, and many parents use it to in
 thing you're grateful for" habit before lights out.
 <br><br>
 <b>What age is this book written for?</b><br>
-It's a picture book for young children, told simply enough for early readers and cozy enough for a 
-read-aloud at bedtime.
+It's a 26-page picture book for ages 3–12, told simply enough for early readers and cozy enough for a read-aloud at bedtime.
 {{< /timelineItem >}}
 
 {{< /timeline >}}

@@ -21,6 +21,8 @@ readingAge: "3-9"
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Story-Inside-Lunchbox-Celebrating-diversity/dp/B0FY5H8GL4/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< book-details >}}
+
 {{< youtubeLite id="60d2Uhb-X6A" label="The Story Inside My Lunchbox" >}}
 
 Every lunch box carries more than food—it carries love, care, and a story from home.
@@ -60,9 +62,6 @@ recognize from their own lives.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="Key Themes & Takeaways" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b>Cultural pride</b>: children are encouraged to be proud of their heritage and the traditions of home. </li>
     <li><b>Empathy and perspective-taking</b>: the story invites readers to see the world through someone else's eyes before judging. </li>
@@ -70,7 +69,6 @@ recognize from their own lives.
     <li><b>Every family is special </b>: the message that love looks different in every home, and that's something to celebrate. </li>
     <li><b>Inclusion and belonging</b>: the classroom becomes a richer, kinder place when everyone's story is welcomed. </li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 
@@ -88,7 +86,7 @@ Yes. It works well as a read-aloud that opens up conversation about food, family
 classmates with respect.
 <br><br>
 <b>What age is this book written for?</b><br>
-It's a picture book for young children, well suited to both home reading and classroom read-alouds.
+It's a 26-page picture book for ages 3–9, well suited to both home reading and classroom read-alouds.
 {{< /timelineItem >}}
 
 {{< /timeline >}}

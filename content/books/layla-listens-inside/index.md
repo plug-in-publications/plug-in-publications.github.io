@@ -21,6 +21,8 @@ readingAge: "3-12"
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Layla-Listens-Inside-mindfulness-regulation/dp/B0FYCXKMB1/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< book-details >}}
+
 {{< youtubeLite id="4UsrwzLN7HI" label="Layla Listens Inside" >}}
 **Layla Listens Inside** is a story about mindfulness, emotional regulation, and finding peace within.
 
@@ -56,9 +58,6 @@ it's safe to feel whatever is there.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="Key Themes & Takeaways" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b>Mindfulness for children</b>: Layla's story makes the practice of slowing down and breathing feel natural and achievable. </li>
     <li><b>Emotional regulation</b>: children learn that they have the power to calm their own nervous system. </li>
@@ -66,7 +65,6 @@ it's safe to feel whatever is there.
     <li><b>Safety and belongin</b>: the affirmations woven through the story ("You are safe. You are loved. You belong.") nurture a child's sense of security. </li>
     <li><b>Intergenerational wisdom</b>: the great-grandmother's role honors the tradition of elders as guides and healers within the family. </li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 
@@ -85,8 +83,7 @@ Her great-grandmother — the story centers an intergenerational bond, with an e
 kind of wisdom.
 <br><br>
 <b>What age is this book written for?</b><br>
-It's a picture book for young children, though its message about calm and self-soothing tends to land 
-with grown-ups reading along, too.
+It's a 29-page picture book for ages 3–12, though its message about calm and self-soothing tends to land with grown-ups reading along, too.
 {{< /timelineItem >}}
 
 {{< /timeline >}}

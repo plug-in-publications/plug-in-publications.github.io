@@ -1,5 +1,5 @@
 ---
-title: "Frybread And Date"
+title: "Frybread and Date"
 seoTitle: "Frybread and Date – Children's Book About Diversity & Kindness"
 description: "Frybread and Date is a children's picture book about cultural diversity, kindness and friendship: two foods discover how much they have in common."
 showSummary: true
@@ -22,8 +22,10 @@ readingAge: "2-12"
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Frybread-Date-diversity-kindness-learning/dp/B0H7XXK18F/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< book-details >}}
+
 {{< youtubeLite id="f2lhG6Z0JQ0" label="Frybread and Date" >}}
-**Frybread and Date**, two foods from different cultures meet for the first time and believe they are very different from one another. Frybread comes from warm family kitchens filled with stories and tradition, while Date comes from sunny groves far across the world where families gather and celebrate together.
+In **Frybread and Date**, two foods from different cultures meet for the first time and believe they are very different from one another. Frybread comes from warm family kitchens filled with stories and tradition, while Date comes from sunny groves far across the world where families gather and celebrate together.
 
 As they share their stories, songs, and traditions, they begin to discover how much they truly have in common. Both are made with love, shared with family, and bring comfort and joy to the people around them. Through kindness, curiosity, and respect, Frybread and Date learn that differences should be celebrated, not feared.
 
@@ -34,8 +36,15 @@ In the end, they realize that although people, foods, and cultures may look diff
 
 {{< timeline >}}
 
-{{< timelineItem icon="comment" header="About This Book" badge="about" >}}
-Frybread & Date is a heartwarming celebration of friendship across cultures, told through the unexpected meeting of two beloved foods. Frybread arrives carrying the warmth of family kitchens and generations of tradition, while Date brings the sunshine of faraway groves and the joy of festive gatherings. At first, they see only their differences — but as they share their stories, songs, and traditions with one another, Frybread and Date discover something wonderful: both are made with love, both are shared with family, and both bring comfort to everyone around them. With curiosity, kindness, and respect, this gentle story shows children that our differences are something to celebrate, not fear — and that no matter how different we may look on the outside, our hearts are often beautifully alike.
+{{< timelineItem icon="comment" header="Questions to Talk About Together" badge="discuss" >}}
+After reading, try a few of these questions at home or in the classroom:
+<ul>
+  <li>Frybread and Date thought they were very different at first. What made them change their minds?</li>
+  <li>What is a food your family makes or shares on special days? Who taught your family to make it?</li>
+  <li>Have you ever tried a food from another culture for the first time? How did it feel?</li>
+  <li>What is one thing you have in common with a friend who seems different from you?</li>
+  <li>How can you show kindness and curiosity when something feels unfamiliar?</li>
+</ul>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="mug-hot" header="A Story Told Through Food" badge="the device" >}}
@@ -58,9 +67,6 @@ someone new.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="Key Themes & Takeaways" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b>Cultural pride</b>: children are encouraged to be proud of their heritage and the traditions of home. </li>
     <li><b>Empathy and perspective-taking</b>: the story invites readers to see the world through someone else's eyes before judging. </li>
@@ -68,7 +74,6 @@ someone new.
     <li><b>Inclusion and belonging</b>: the world becomes a richer, kinder place when everyone's story is welcomed. </li>
     <li><b>Curiosity before judgment</b>: Frybread and Date model asking questions about what's unfamiliar instead of dismissing it. </li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 
@@ -78,8 +83,7 @@ No. Their traditions and gatherings are introduced naturally through the story i
 and curiosity rather than as a lesson.
 <br><br>
 <b>What age is this book written for?</b><br>
-It's a picture book made for young children, and it works just as well as a read-aloud shared between an 
-adult and a child.
+It's a 30-page picture book for ages 2–12, and it works just as well as a read-aloud shared between an adult and a child.
 <br><br>
 <b>Does this book address bullying or being left out?</b><br>
 Gently, yes — through the lens of two characters who start out seeing only their differences and end up 

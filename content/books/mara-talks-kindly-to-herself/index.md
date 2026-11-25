@@ -21,6 +21,8 @@ numberOfPages: 40
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/dp/B0HM3PGKMC/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< book-details >}}
+
 {{< youtubeLite id="_VJ64XST_NI" label="Mara Talks Kindly to Herself" >}}
 The first voice we hear in the morning is our own. So is the last one we hear at night.
 
@@ -36,8 +38,15 @@ Teaching children to speak kindly to themselves is a gift they can carry for a l
 
 {{< timeline >}}
 
-{{< timelineItem icon="comment" header="About This Book" badge="about" >}}
-Mara Talks Kindly to Herself is a heartwarming story for children about the voice they hear most often: their own. When Mara makes mistakes or feels unsure, her inner voice can be harsh. With a simple piece of wisdom from her grandmother, she begins to treat herself the way she would treat her best friend. Through Mara's journey, children learn to notice their inner conversations and discover that kind words can help their confidence, self-worth, and happiness grow. It's a gentle reminder, for young readers and the grown-ups reading with them, that mistakes are part of learning.
+{{< timelineItem icon="comment" header="Questions to Talk About Together" badge="discuss" >}}
+After reading, try a few of these questions with your child or class:
+<ul>
+  <li>How did Mara's inner voice talk to her at the beginning of the story? How did it change by the end?</li>
+  <li>What advice did Mara's grandmother give her? Why do you think it helped?</li>
+  <li>What would you say to a friend who made a mistake? Can you say the same words to yourself?</li>
+  <li>When do you notice your own inner voice? Is it usually kind?</li>
+  <li>What is one kind thing you can tell yourself tomorrow morning?</li>
+</ul>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="lightbulb" header="A Practice You Can Try Together" badge="try it" >}}
@@ -60,9 +69,6 @@ moment that makes self-kindness feel natural instead of abstract.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="Key Themes & Takeaways" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b>Positive self-talk</b>: children learn that the way they speak to themselves matters. </li>
     <li><b>Recognizing your own worth</b>: kind inner words help a child's confidence and self-worth grow. </li>
@@ -71,16 +77,7 @@ moment that makes self-kindness feel natural instead of abstract.
     <li><b>Mistakes are part of learning</b>: getting things wrong is a normal step on the way to growing. </li>
     <li><b>Intergenerational wisdom</b>: a grandmother's simple advice becomes a tool Mara can use for life. </li>
 </ul>
-{{< /typeit >}}
 
-{{< /timelineItem >}}
-
-{{< timelineItem icon="pencil" header="About the Author" badge="author" >}}
-Amani's wish is to create meaningful stories that help children tend to their inner world, because what 
-we carry within shapes how we experience the world around us. Her books are more than stories: they are 
-lifelong lessons filled with ideas and tools that children can carry with them from childhood into 
-adulthood. Her hope is simple: that every child grows with a healthy inner world, knows their worth, and 
-has the confidence to let their light shine.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="circle-question" header="Frequently Asked Questions" badge="faq" >}}

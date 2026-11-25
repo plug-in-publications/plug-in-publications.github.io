@@ -19,6 +19,8 @@ numberOfPages: 40
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/dp/B0HR7CXK15/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< book-details >}}
+
 {{< youtubeLite id="FChqa--yIIM" label="Haskell for the Gloriously Lazy" >}}
 
 **You've read the Haskell tutorials. You nodded along for three chapters, hit the wall, and told yourself it would make sense later. It didn't.**
@@ -61,9 +63,6 @@ left unexplained on purpose, so the curious can poke at them while everyone else
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="What's Inside" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b>Recursion</b>: an idea that looks strange until you see it in a household routine. </li>
     <li><b>Lazy evaluation</b>: why not doing the work until it's needed is the whole point. </li>
@@ -73,7 +72,6 @@ left unexplained on purpose, so the curious can poke at them while everyone else
     <li><b>Pattern matching and Maybe</b>: handling "there might be nothing here" without drama. </li>
     <li><b>IO and monads</b>: the famously scary topic, approached through the dishwasher and the lawnmowers. </li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 

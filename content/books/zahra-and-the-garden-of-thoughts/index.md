@@ -1,5 +1,5 @@
 ---
-title: "Zahra And The Garden Of Thoughts"
+title: "Zahra and the Garden of Thoughts"
 seoTitle: "Zahra and the Garden of Thoughts – Children's Book About Positive Thinking"
 description: "Zahra and the Garden of Thoughts is a children's book about positive thinking and mindfulness that helps kids grow a calm, healthy mind."
 showSummary: true
@@ -20,6 +20,8 @@ readingAge: "3-12"
 > [!TIP] **Available Now!** 
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Zahra-Garden-Thoughts-Growing-Positive/dp/B0FZ9819T4/" target="_blank" >}} Amazon {{< /button >}}
+
+{{< book-details >}}
 
 {{< youtubeLite id="YgUEQu-9Qoc" label="Zahra and the Garden of Thoughts" >}}
 **Zahra and the Garden of Thoughts** is a magical story about a little girl who learns that her mind is just like a garden. Every thought she thinks becomes a seed — some grow into bright flowers of courage, joy, and calm, and others can turn into weeds of worry or doubt.
@@ -56,9 +58,6 @@ thought without being overwhelmed by it, and to choose what to do next.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="Key Themes & Takeaways" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b>The mind as a garden</b>: a rich, child-friendly metaphor that makes abstract emotional concepts concrete and relatable. </li>
     <li><b>Positive thinking as a skill</b>: children learn that thoughts can be chosen, nurtured, and changed. </li>
@@ -66,7 +65,6 @@ thought without being overwhelmed by it, and to choose what to do next.
     <li><b>Self-compassion</b>: the story gently teaches that unhelpful thoughts are not bad; they just need to be redirected. </li>
     <li><b>Inner resilience</b>: children are empowered to grow peace, confidence, and happiness from within themselves. </li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 
@@ -84,8 +82,7 @@ No, the opposite. Zahra learns that unhelpful thoughts, or "weeds," aren't somet
 — they just need attention and redirecting, like any part of a garden.
 <br><br>
 <b>What age is this book written for?</b><br>
-It's a picture book for young children, with a metaphor simple enough for early readers and rich enough 
-for grown-ups to enjoy discussing together.
+It's a 26-page picture book for ages 3–12, with a metaphor simple enough for early readers and rich enough for grown-ups to enjoy discussing together.
 {{< /timelineItem >}}
 
 {{< /timeline >}}

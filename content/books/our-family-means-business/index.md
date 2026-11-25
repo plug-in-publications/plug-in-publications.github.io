@@ -21,6 +21,8 @@ numberOfPages: 90
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/dp/B0HRQ3R7YT/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< book-details >}}
+
 {{< youtubeLite id="Ft8nr3tia_g" label="Our Family Means Business" >}}
 
 **Who buys the lemons?**
@@ -71,9 +73,6 @@ more. A simple <b>three-month pacing guide</b> helps families go chapter by chap
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="What Kids Will Learn" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b>Duties vs. paid jobs</b>: telling family chores from paid work, and setting a price a customer will say yes to. </li>
     <li><b>Keeping a ledger</b>: recording every coin that comes in and goes out. </li>
@@ -82,7 +81,6 @@ more. A simple <b>three-month pacing guide</b> helps families go chapter by chap
     <li><b>Money from what you own</b>: discovering that money can come from what you own, not only from what you do. </li>
     <li><b>Spotting marketing tricks</b>: seeing through "Everyone has one!" before they buy. </li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 

@@ -1,0 +1,21 @@
+{{/* One-line book facts built from front matter, so they stay in sync with the
+     structured data. Usage: {{< book-details >}}
+     Reads: bookFormat, numberOfPages, readingAge, date, isbn. */}}
+{{- $p := .Page -}}
+{{- $parts := slice -}}
+{{- with $p.Params.bookFormat -}}
+  {{- $parts = $parts | append (cond (eq . "EBook") "Kindle eBook" .) -}}
+{{- end -}}
+{{- with $p.Params.numberOfPages -}}{{- $parts = $parts | append (printf "%v pages" .) -}}{{- end -}}
+{{- with $p.Params.readingAge -}}{{- $parts = $parts | append (printf "Ages %s" (replace (string .) "-" "–")) -}}{{- end -}}
+{{- if not $p.PublishDate.IsZero -}}{{- $parts = $parts | append (printf "Published %s" ($p.PublishDate.Format "January 2006")) -}}{{- end -}}
+{{- with $p.Params.isbn -}}
+  {{- $s := string . -}}
+  {{- if eq (len $s) 13 -}}{{- $s = printf "%s-%s" (substr $s 0 3) (substr $s 3) -}}{{- end -}}
+  {{- $parts = $parts | append (printf "ISBN %s" $s) -}}
+{{- end -}}
+{{- with $parts -}}
+{{- $items := slice -}}
+{{- range . -}}{{- $items = $items | append (printf `<span style="white-space:nowrap">%s</span>` .) -}}{{- end -}}
+<p class="book-details text-sm text-neutral-600 dark:text-neutral-400"><strong>Book details:</strong> {{ delimit $items " · " | safeHTML }}</p>
+{{- end -}}

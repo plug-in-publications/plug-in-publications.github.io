@@ -22,12 +22,12 @@ numberOfPages: 142
 > Get your copy today from 
 > {{< button href="https://www.amazon.com/Radiant-You-Makeover-Workbook-Conversations/dp/B0FFF1342V/" target="_blank" >}} Amazon {{< /button >}}
 
+{{< book-details >}}
+
 {{< youtubeLite id="fEVzvr8uMfM" label="The Radiant You" >}}
 **The Radiant You: A Mindset Makeover Workbook** is your comprehensive guide to personal transformation. 
 This beautifully crafted, interactive workbook takes you on a journey of self-discovery, helping you uncover 
-your authentic self and unleash the radiance that's been waiting inside you all along. Every day you postpone 
-investing in yourself is another day you're not living your fullest potential. 
-Join thousands of others who've already begun their radiant transformation.
+your authentic self and unleash the radiance that's been waiting inside you all along.
 
 ![Cover of The Radiant You: A Mindset Makeover Workbook for personal growth](radiant-you-cover.jpg)
 
@@ -50,20 +50,17 @@ the ideas don't just stay in your head — they turn into something written, con
 
 {{< timelineItem icon="bell" header="Perfect For Readers Who" badge="perfect for" >}}
 <ul>
-  <li>Want to make real, <b>lasting changes</b> in your life</li>
+  <li>Want to make real, <b>lasting changes</b> in their lives</li>
   <li>Prefer hands-on, interactive <b>learning</b></li>
   <li>Love beautiful, <b>inspiring design</b></li>
   <li>Need structure and guidance for <b>personal growth</b></li>
-  <li>Want to discover your <b>authentic self</b></li>
-  <li>Are ready to invest time in your <b>transformation</b></li>
+  <li>Want to discover their <b>authentic self</b></li>
+  <li>Are ready to invest time in their own <b>transformation</b></li>
   <li>Learn best by <b>writing things down</b>, not just reading about them</li>
 </ul>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="heart" header="Key Themes & Takeaways" badge="topics" >}}
-{{< typeit 
-  speed=50
->}}
 <ul>
     <li><b> Discover Your Authentic Self</b>: Self-assessment exercises and personal vision creation through <i>8 Transformative Modules</i>.</li>
     <li><b>Mindset Makeover</b>: Practice positive thinking and build confidence by identifying limiting beliefs and setting goals.</li>
@@ -71,7 +68,6 @@ the ideas don't just stay in your head — they turn into something written, con
     <li><b>Relationship Renewal</b>: Build connections and learn how to set boundaries with communication enhancement tools and purpose discovery exercises.</li>
     <li><b>Progress Over Perfection</b>: The modules are meant to be revisited, not finished once and shelved — transformation is treated as an ongoing practice.</li>
 </ul>
-{{< /typeit >}}
 
 {{< /timelineItem >}}
 

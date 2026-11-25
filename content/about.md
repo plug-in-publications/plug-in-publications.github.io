@@ -33,6 +33,13 @@ From gratitude and positive thinking to mindfulness, empathy, cultural belonging
 our children's titles give young readers the inner tools they need to thrive — and give families meaningful stories to share together.
 
 
+## Meet Our Authors
+
+Our books are written by two authors with different voices and a shared goal: helping readers of
+every age grow through stories drawn from everyday family life.
+
+{{< meet-authors >}}
+
 ## Contact Us
 
 Have questions? {{< button href="/contact" target="_self" >}} Get in touch {{< /button >}}

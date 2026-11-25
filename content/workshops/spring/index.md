@@ -27,5 +27,5 @@ We go deep into the beliefs that have been quietly running your life - identify 
 
 If you enjoy this kind of mindset work, you may also like our self-help titles
 [The Radiant You workbook](/books/radiant-you-workbook/) and
-[Conversations With Mom](/books/conversations-with-mom/).
+[Conversations with Mom](/books/conversations-with-mom/).
 To ask about upcoming dates or to reserve your place, {{< button href="/contact/" target="_self" >}} Get in touch {{< /button >}}
