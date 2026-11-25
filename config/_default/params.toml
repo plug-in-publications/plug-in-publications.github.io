@@ -36,10 +36,10 @@ showThemeAttribution = false
 heroStyle = "basic"
 showHero = true
 
-# Add your Search Console / Bing verification codes, then uncomment.
-# [verification]
-#   google = ""
-#   bing = ""
+# Search engine site verification (rendered as <meta> tags in <head>).
+[verification]
+  google = "vz_1Wg5IurZYIiAI2Ai8WUiwEvsN-1cygpD7m-XvkYE"
+  # bing = ""
 
 [sitemap]
 # Include term pages (author pages, category landing pages) in the sitemap.
